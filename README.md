@@ -16,7 +16,7 @@ dataset (Kaggle) เพื่อวิเคราะห์รสนิยมก
 ## Setup (Step 1)
 
 1. สร้าง Spotify App ที่ https://developer.spotify.com/dashboard
-   - Redirect URI: `http://localhost:8888/callback`
+   + Redirect URI: `http://127.0.0.1:8888/callback`
 2. คัดลอก `.env.example` เป็น `.env` แล้วใส่ Client ID/Secret ของคุณ
 3. ติดตั้ง dependencies:
    ```bash
