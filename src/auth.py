@@ -1,3 +1,5 @@
+%pip install spotipy python-dotenv
+
 """
 src/auth.py
 
