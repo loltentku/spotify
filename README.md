@@ -31,10 +31,6 @@ I looked up each artist on Last.fm to get genre tags instead. That brought in so
 (`all`, `female vocalists`), which have to be filtered out before picking the top 5 per artist,
 otherwise they use up the slots. Tags that mean the same thing (`thai`, `thailand`, `t-pop`) are merged into one so a single genre isn't split across several bars.
 
-**The Kaggle dataset can't be used to compare genres.** I originally planned to compare my taste with "the market,"
-but the dataset is sampled roughly evenly across genres (114 genres, about 114,000 rows), so its genre shares say nothing about
-what is actually popular. Last.fm tags and Kaggle genres are also different taxonomies, so I kept them separate instead of joining them.
-
 **Spotify only returns the last 50 plays per request.** A day without a run means that day's history is gone for good,
 so the landing zone is append-only and ingestion runs daily.
 
