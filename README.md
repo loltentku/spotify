@@ -4,7 +4,7 @@ This project started with a simple question: what do I actually listen to, and w
 To answer it, I built a data pipeline that pulls my Spotify history every day, adds genre tags from Last.fm,
 processes everything on Databricks using a Bronze → Silver → Gold layout, and shows the results in a Power BI dashboard.
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](dash.png)
 
 ## How it fits together
 
