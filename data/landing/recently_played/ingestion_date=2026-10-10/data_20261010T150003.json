@@ -1,0 +1,4224 @@
+[
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/051lp6s3ON69PxioINt2xE"
+            },
+            "href": "https://api.spotify.com/v1/artists/051lp6s3ON69PxioINt2xE",
+            "id": "051lp6s3ON69PxioINt2xE",
+            "name": "Gun Napat",
+            "type": "artist",
+            "uri": "spotify:artist:051lp6s3ON69PxioINt2xE"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1fq2Q3RjyXLYMwGSjBKEAt"
+        },
+        "href": "https://api.spotify.com/v1/albums/1fq2Q3RjyXLYMwGSjBKEAt",
+        "id": "1fq2Q3RjyXLYMwGSjBKEAt",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273607390d48db72a441f7411b4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02607390d48db72a441f7411b4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851607390d48db72a441f7411b4",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "เคียงกัน (feat. D GERRARD)",
+        "release_date": "2019-05-29",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1fq2Q3RjyXLYMwGSjBKEAt"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/051lp6s3ON69PxioINt2xE"
+          },
+          "href": "https://api.spotify.com/v1/artists/051lp6s3ON69PxioINt2xE",
+          "id": "051lp6s3ON69PxioINt2xE",
+          "name": "Gun Napat",
+          "type": "artist",
+          "uri": "spotify:artist:051lp6s3ON69PxioINt2xE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+          },
+          "href": "https://api.spotify.com/v1/artists/1k7MP2tMC43vM0b0wg8HHg",
+          "id": "1k7MP2tMC43vM0b0wg8HHg",
+          "name": "D Gerrard",
+          "type": "artist",
+          "uri": "spotify:artist:1k7MP2tMC43vM0b0wg8HHg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 292949,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THG011900331"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/35KWkZPAQ8yRQzuHUIF8IG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/35KWkZPAQ8yRQzuHUIF8IG",
+      "id": "35KWkZPAQ8yRQzuHUIF8IG",
+      "is_local": false,
+      "is_playable": true,
+      "name": "เคียงกัน (feat. D GERRARD)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:35KWkZPAQ8yRQzuHUIF8IG"
+    },
+    "played_at": "2026-10-10T09:56:51.414Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tNQk80J4jiIo3eOVvcda6",
+            "id": "0tNQk80J4jiIo3eOVvcda6",
+            "name": "Lower Mansion",
+            "type": "artist",
+            "uri": "spotify:artist:0tNQk80J4jiIo3eOVvcda6"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/75vRRVMzg3EgUP4YTOoAJN"
+        },
+        "href": "https://api.spotify.com/v1/albums/75vRRVMzg3EgUP4YTOoAJN",
+        "id": "75vRRVMzg3EgUP4YTOoAJN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b2e390355b3bdf9788db56e1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b2e390355b3bdf9788db56e1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b2e390355b3bdf9788db56e1",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "กอดลาครั้งสุดท้าย",
+        "release_date": "2023-09-18",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:75vRRVMzg3EgUP4YTOoAJN"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tNQk80J4jiIo3eOVvcda6",
+          "id": "0tNQk80J4jiIo3eOVvcda6",
+          "name": "Lower Mansion",
+          "type": "artist",
+          "uri": "spotify:artist:0tNQk80J4jiIo3eOVvcda6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 295591,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "DGA092360054"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4iqH9aDfQ7R8fkynJHShSU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4iqH9aDfQ7R8fkynJHShSU",
+      "id": "4iqH9aDfQ7R8fkynJHShSU",
+      "is_local": false,
+      "is_playable": true,
+      "name": "กอดลาครั้งสุดท้าย",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4iqH9aDfQ7R8fkynJHShSU"
+    },
+    "played_at": "2026-10-10T06:57:01.953Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+            },
+            "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+            "id": "6chmC6o0wvACYVGTITw3Pz",
+            "name": "NONT TANONT",
+            "type": "artist",
+            "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0WgyERgiBxZTMyzpZbv0Mu"
+        },
+        "href": "https://api.spotify.com/v1/albums/0WgyERgiBxZTMyzpZbv0Mu",
+        "id": "0WgyERgiBxZTMyzpZbv0Mu",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ee90e3018520f75add41cdba",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ee90e3018520f75add41cdba",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ee90e3018520f75add41cdba",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Cigarette Candy & Vanilla Sky",
+        "release_date": "2022-08-01",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:0WgyERgiBxZTMyzpZbv0Mu"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+          "id": "6chmC6o0wvACYVGTITw3Pz",
+          "name": "NONT TANONT",
+          "type": "artist",
+          "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235525,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "FRX282272434"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0UnBTNSDEno8206BUAMC8g"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0UnBTNSDEno8206BUAMC8g",
+      "id": "0UnBTNSDEno8206BUAMC8g",
+      "is_local": false,
+      "is_playable": true,
+      "name": "คนใหม่",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0UnBTNSDEno8206BUAMC8g"
+    },
+    "played_at": "2026-10-10T06:51:57.029Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6S1muALi4rOMhFdXJ2pBlD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6S1muALi4rOMhFdXJ2pBlD",
+            "id": "6S1muALi4rOMhFdXJ2pBlD",
+            "name": "Be Peerapat",
+            "type": "artist",
+            "uri": "spotify:artist:6S1muALi4rOMhFdXJ2pBlD"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3D7964agDBL66N0EaHDwp1"
+        },
+        "href": "https://api.spotify.com/v1/albums/3D7964agDBL66N0EaHDwp1",
+        "id": "3D7964agDBL66N0EaHDwp1",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27356cceb03899013f95c4647c2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0256cceb03899013f95c4647c2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485156cceb03899013f95c4647c2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Dedicated To Love",
+        "release_date": "2008-01-21",
+        "release_date_precision": "day",
+        "total_tracks": 17,
+        "type": "album",
+        "uri": "spotify:album:3D7964agDBL66N0EaHDwp1"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6S1muALi4rOMhFdXJ2pBlD"
+          },
+          "href": "https://api.spotify.com/v1/artists/6S1muALi4rOMhFdXJ2pBlD",
+          "id": "6S1muALi4rOMhFdXJ2pBlD",
+          "name": "Be Peerapat",
+          "type": "artist",
+          "uri": "spotify:artist:6S1muALi4rOMhFdXJ2pBlD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 292200,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THW090800098"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7413pRAfTuQPXaaJH2TGaX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7413pRAfTuQPXaaJH2TGaX",
+      "id": "7413pRAfTuQPXaaJH2TGaX",
+      "is_local": false,
+      "is_playable": true,
+      "name": "พูดตรงตรง",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7413pRAfTuQPXaaJH2TGaX"
+    },
+    "played_at": "2026-10-10T06:47:56.832Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1C6qssOWal7Sii2guMg0mx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1C6qssOWal7Sii2guMg0mx",
+            "id": "1C6qssOWal7Sii2guMg0mx",
+            "name": "Pop Pongkool",
+            "type": "artist",
+            "uri": "spotify:artist:1C6qssOWal7Sii2guMg0mx"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/35n1lFrXKzAMak0nAwaoIu"
+        },
+        "href": "https://api.spotify.com/v1/albums/35n1lFrXKzAMak0nAwaoIu",
+        "id": "35n1lFrXKzAMak0nAwaoIu",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c4d87a48bc340f47d20b066a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c4d87a48bc340f47d20b066a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c4d87a48bc340f47d20b066a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "THE OTHER SIDE",
+        "release_date": "2012-11-15",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:35n1lFrXKzAMak0nAwaoIu"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1C6qssOWal7Sii2guMg0mx"
+          },
+          "href": "https://api.spotify.com/v1/artists/1C6qssOWal7Sii2guMg0mx",
+          "id": "1C6qssOWal7Sii2guMg0mx",
+          "name": "Pop Pongkool",
+          "type": "artist",
+          "uri": "spotify:artist:1C6qssOWal7Sii2guMg0mx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2q5DYX0CL66UwvctC0FGnN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2q5DYX0CL66UwvctC0FGnN",
+          "id": "2q5DYX0CL66UwvctC0FGnN",
+          "name": "Thee Chaiyadej",
+          "type": "artist",
+          "uri": "spotify:artist:2q5DYX0CL66UwvctC0FGnN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 277400,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THG011300292"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1HKYBL8q3hKakEoIxVwWdU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1HKYBL8q3hKakEoIxVwWdU",
+      "id": "1HKYBL8q3hKakEoIxVwWdU",
+      "is_local": false,
+      "is_playable": true,
+      "name": "ระหว่างที่รอเขา (feat. ธีร์ ไชยเดช)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1HKYBL8q3hKakEoIxVwWdU"
+    },
+    "played_at": "2026-10-10T06:42:53.347Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1qz5HLBHOge1yHlMVAZ9hO"
+            },
+            "href": "https://api.spotify.com/v1/artists/1qz5HLBHOge1yHlMVAZ9hO",
+            "id": "1qz5HLBHOge1yHlMVAZ9hO",
+            "name": "ETC.",
+            "type": "artist",
+            "uri": "spotify:artist:1qz5HLBHOge1yHlMVAZ9hO"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6ZaxumwBku1InTLJ9nbNht"
+        },
+        "href": "https://api.spotify.com/v1/albums/6ZaxumwBku1InTLJ9nbNht",
+        "id": "6ZaxumwBku1InTLJ9nbNht",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273467f6dbef940bc9f3caf02d6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02467f6dbef940bc9f3caf02d6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851467f6dbef940bc9f3caf02d6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "เปลี่ยน",
+        "release_date": "2007-02-26",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:6ZaxumwBku1InTLJ9nbNht"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1qz5HLBHOge1yHlMVAZ9hO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1qz5HLBHOge1yHlMVAZ9hO",
+          "id": "1qz5HLBHOge1yHlMVAZ9hO",
+          "name": "ETC.",
+          "type": "artist",
+          "uri": "spotify:artist:1qz5HLBHOge1yHlMVAZ9hO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 283400,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THMOB1804533"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5mVFdc39xiu1anCROnlczp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5mVFdc39xiu1anCROnlczp",
+      "id": "5mVFdc39xiu1anCROnlczp",
+      "is_local": false,
+      "is_playable": true,
+      "name": "เปลี่ยน",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5mVFdc39xiu1anCROnlczp"
+    },
+    "played_at": "2026-10-10T06:37:05.550Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HlUN1Md7UT62mNJHOYRsK",
+            "id": "6HlUN1Md7UT62mNJHOYRsK",
+            "name": "PiXXiE",
+            "type": "artist",
+            "uri": "spotify:artist:6HlUN1Md7UT62mNJHOYRsK"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV"
+        },
+        "href": "https://api.spotify.com/v1/albums/2y7x9mZ9M0hWIQL7JhAOGV",
+        "id": "2y7x9mZ9M0hWIQL7JhAOGV",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273040b08d91e5bf69582f91285",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02040b08d91e5bf69582f91285",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851040b08d91e5bf69582f91285",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "DUST",
+        "release_date": "2026-09-24",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:2y7x9mZ9M0hWIQL7JhAOGV"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+          },
+          "href": "https://api.spotify.com/v1/artists/6HlUN1Md7UT62mNJHOYRsK",
+          "id": "6HlUN1Md7UT62mNJHOYRsK",
+          "name": "PiXXiE",
+          "type": "artist",
+          "uri": "spotify:artist:6HlUN1Md7UT62mNJHOYRsK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3xlC7Dw0uiwprXDHCU9SAu",
+          "id": "3xlC7Dw0uiwprXDHCU9SAu",
+          "name": "PURPEECH",
+          "type": "artist",
+          "uri": "spotify:artist:3xlC7Dw0uiwprXDHCU9SAu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 265568,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GB2DY2611480"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ES7d3qDKKBvpQgdLgfFCq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ES7d3qDKKBvpQgdLgfFCq",
+      "id": "5ES7d3qDKKBvpQgdLgfFCq",
+      "is_local": false,
+      "is_playable": true,
+      "name": "ตลอดไปยังไม่พอ (∞)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5ES7d3qDKKBvpQgdLgfFCq"
+    },
+    "played_at": "2026-10-10T06:32:21.601Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6c072WEAW4bDCE9af5oXS3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6c072WEAW4bDCE9af5oXS3",
+            "id": "6c072WEAW4bDCE9af5oXS3",
+            "name": "Tea For Three",
+            "type": "artist",
+            "uri": "spotify:artist:6c072WEAW4bDCE9af5oXS3"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/38ZjaZGisK4uozCV2uQkM7"
+        },
+        "href": "https://api.spotify.com/v1/albums/38ZjaZGisK4uozCV2uQkM7",
+        "id": "38ZjaZGisK4uozCV2uQkM7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273277972d2055fa0064f8e3b36",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02277972d2055fa0064f8e3b36",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851277972d2055fa0064f8e3b36",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Three",
+        "release_date": "1998",
+        "release_date_precision": "year",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:38ZjaZGisK4uozCV2uQkM7"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6c072WEAW4bDCE9af5oXS3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6c072WEAW4bDCE9af5oXS3",
+          "id": "6c072WEAW4bDCE9af5oXS3",
+          "name": "Tea For Three",
+          "type": "artist",
+          "uri": "spotify:artist:6c072WEAW4bDCE9af5oXS3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217066,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THS080700801"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1bLqQ2eopwNmAK1QyGuJ3k"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1bLqQ2eopwNmAK1QyGuJ3k",
+      "id": "1bLqQ2eopwNmAK1QyGuJ3k",
+      "is_local": false,
+      "is_playable": true,
+      "name": "แด่คนเคยรัก",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1bLqQ2eopwNmAK1QyGuJ3k"
+    },
+    "played_at": "2026-10-10T06:27:55.499Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp?sessionId=1791590400001&mode=enhanced",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6iy5i5ZNnELYlqtxL5xw"
+            },
+            "href": "https://api.spotify.com/v1/artists/6w6iy5i5ZNnELYlqtxL5xw",
+            "id": "6w6iy5i5ZNnELYlqtxL5xw",
+            "name": "Sib Lor",
+            "type": "artist",
+            "uri": "spotify:artist:6w6iy5i5ZNnELYlqtxL5xw"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2MrAwUQUychv1HGpbrugFK"
+        },
+        "href": "https://api.spotify.com/v1/albums/2MrAwUQUychv1HGpbrugFK",
+        "id": "2MrAwUQUychv1HGpbrugFK",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738b6affef2d50d4fd56bcd6b7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028b6affef2d50d4fd56bcd6b7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518b6affef2d50d4fd56bcd6b7",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "เสียงเพลงสิบล้อ",
+        "release_date": "2004-11-23",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:2MrAwUQUychv1HGpbrugFK"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6w6iy5i5ZNnELYlqtxL5xw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6w6iy5i5ZNnELYlqtxL5xw",
+          "id": "6w6iy5i5ZNnELYlqtxL5xw",
+          "name": "Sib Lor",
+          "type": "artist",
+          "uri": "spotify:artist:6w6iy5i5ZNnELYlqtxL5xw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244160,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THG010735275"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4QXPu2KgnkF6rJMIhN3YmH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4QXPu2KgnkF6rJMIhN3YmH",
+      "id": "4QXPu2KgnkF6rJMIhN3YmH",
+      "is_local": false,
+      "is_playable": true,
+      "name": "รักเป็นเช่นใด",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4QXPu2KgnkF6rJMIhN3YmH"
+    },
+    "played_at": "2026-10-10T06:23:34.006Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp?sessionId=1791504000002&mode=enhanced",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4jDRDTYkULJ1hOESWa16Ej"
+            },
+            "href": "https://api.spotify.com/v1/artists/4jDRDTYkULJ1hOESWa16Ej",
+            "id": "4jDRDTYkULJ1hOESWa16Ej",
+            "name": "2 Days Ago Kids",
+            "type": "artist",
+            "uri": "spotify:artist:4jDRDTYkULJ1hOESWa16Ej"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2JyaHsIbMHzjubFuFAlNIS"
+        },
+        "href": "https://api.spotify.com/v1/albums/2JyaHsIbMHzjubFuFAlNIS",
+        "id": "2JyaHsIbMHzjubFuFAlNIS",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c2d8edc439e5957a1430fcaa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c2d8edc439e5957a1430fcaa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c2d8edc439e5957a1430fcaa",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Time Machine",
+        "release_date": "2018-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:2JyaHsIbMHzjubFuFAlNIS"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4jDRDTYkULJ1hOESWa16Ej"
+          },
+          "href": "https://api.spotify.com/v1/artists/4jDRDTYkULJ1hOESWa16Ej",
+          "id": "4jDRDTYkULJ1hOESWa16Ej",
+          "name": "2 Days Ago Kids",
+          "type": "artist",
+          "uri": "spotify:artist:4jDRDTYkULJ1hOESWa16Ej"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 305133,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH1226293"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5UOrFESPiNWoQCccpfGlcR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5UOrFESPiNWoQCccpfGlcR",
+      "id": "5UOrFESPiNWoQCccpfGlcR",
+      "is_local": false,
+      "is_playable": true,
+      "name": "กลับมา Pls Come Back",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5UOrFESPiNWoQCccpfGlcR"
+    },
+    "played_at": "2026-10-09T11:50:08.470Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp?sessionId=1791504000002&mode=enhanced",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1C6qssOWal7Sii2guMg0mx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1C6qssOWal7Sii2guMg0mx",
+            "id": "1C6qssOWal7Sii2guMg0mx",
+            "name": "Pop Pongkool",
+            "type": "artist",
+            "uri": "spotify:artist:1C6qssOWal7Sii2guMg0mx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hmi6s1Fv2lxH8OurBfLVZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hmi6s1Fv2lxH8OurBfLVZ",
+            "id": "2hmi6s1Fv2lxH8OurBfLVZ",
+            "name": "ดา เอ็นโดรฟิน",
+            "type": "artist",
+            "uri": "spotify:artist:2hmi6s1Fv2lxH8OurBfLVZ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0XZPiLjp3d0TQbBguzNudR"
+        },
+        "href": "https://api.spotify.com/v1/albums/0XZPiLjp3d0TQbBguzNudR",
+        "id": "0XZPiLjp3d0TQbBguzNudR",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b27b12278e96d3a750492569",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b27b12278e96d3a750492569",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b27b12278e96d3a750492569",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "สลักจิต (feat. ดา เอ็นโดรฟิน)",
+        "release_date": "2022-07-15",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0XZPiLjp3d0TQbBguzNudR"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1C6qssOWal7Sii2guMg0mx"
+          },
+          "href": "https://api.spotify.com/v1/artists/1C6qssOWal7Sii2guMg0mx",
+          "id": "1C6qssOWal7Sii2guMg0mx",
+          "name": "Pop Pongkool",
+          "type": "artist",
+          "uri": "spotify:artist:1C6qssOWal7Sii2guMg0mx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hmi6s1Fv2lxH8OurBfLVZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hmi6s1Fv2lxH8OurBfLVZ",
+          "id": "2hmi6s1Fv2lxH8OurBfLVZ",
+          "name": "ดา เอ็นโดรฟิน",
+          "type": "artist",
+          "uri": "spotify:artist:2hmi6s1Fv2lxH8OurBfLVZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 264444,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THG012200281"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/151RFTqNBV4hcJLOAux0FR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/151RFTqNBV4hcJLOAux0FR",
+      "id": "151RFTqNBV4hcJLOAux0FR",
+      "is_local": false,
+      "is_playable": true,
+      "name": "สลักจิต (feat. ดา เอ็นโดรฟิน)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:151RFTqNBV4hcJLOAux0FR"
+    },
+    "played_at": "2026-10-09T11:44:37.173Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp?sessionId=1791504000002&mode=enhanced",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+            "id": "1Twi7NfmUzbXF7lEMaGCqF",
+            "name": "Ink Waruntorn",
+            "type": "artist",
+            "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/21tzslgWGyfVH7JP9o5x3n"
+        },
+        "href": "https://api.spotify.com/v1/albums/21tzslgWGyfVH7JP9o5x3n",
+        "id": "21tzslgWGyfVH7JP9o5x3n",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f98d5234dd9f3ca68abca0d0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f98d5234dd9f3ca68abca0d0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f98d5234dd9f3ca68abca0d0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "BOLD",
+        "release_date": "2025-09-12",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:21tzslgWGyfVH7JP9o5x3n"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228648,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THMUN2550038"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1us1N0XEToufNnmzyhJPm5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1us1N0XEToufNnmzyhJPm5",
+      "id": "1us1N0XEToufNnmzyhJPm5",
+      "is_local": false,
+      "is_playable": true,
+      "name": "สักวันฉันจะหายดี",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1us1N0XEToufNnmzyhJPm5"
+    },
+    "played_at": "2026-10-09T11:39:52.744Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp?sessionId=1791504000002&mode=enhanced",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+            "id": "2kxP07DLgs4xlWz8YHlvfh",
+            "name": "NIKI",
+            "type": "artist",
+            "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0Cu6JzzodKQ5Lzccubu5zj"
+        },
+        "href": "https://api.spotify.com/v1/albums/0Cu6JzzodKQ5Lzccubu5zj",
+        "id": "0Cu6JzzodKQ5Lzccubu5zj",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d3997a4c208ac08dafff374f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d3997a4c208ac08dafff374f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d3997a4c208ac08dafff374f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Nicole",
+        "release_date": "2022-08-11",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:0Cu6JzzodKQ5Lzccubu5zj"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+          "id": "2kxP07DLgs4xlWz8YHlvfh",
+          "name": "NIKI",
+          "type": "artist",
+          "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 336000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ZZOPM2234425"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0XZW4ZKXOwo9kCyDpXGNc7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0XZW4ZKXOwo9kCyDpXGNc7",
+      "id": "0XZW4ZKXOwo9kCyDpXGNc7",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Oceans & Engines",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0XZW4ZKXOwo9kCyDpXGNc7"
+    },
+    "played_at": "2026-10-08T19:33:14.638Z",
+    "context": {
+      "type": "artist",
+      "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh",
+      "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+            "id": "2kxP07DLgs4xlWz8YHlvfh",
+            "name": "NIKI",
+            "type": "artist",
+            "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/22Es8oTgrk3zdUcoV9gW9y"
+        },
+        "href": "https://api.spotify.com/v1/albums/22Es8oTgrk3zdUcoV9gW9y",
+        "id": "22Es8oTgrk3zdUcoV9gW9y",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27327d27aa0719f69df2c50f4dd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0227d27aa0719f69df2c50f4dd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485127d27aa0719f69df2c50f4dd",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "lowkey",
+        "release_date": "2019-04-24",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:22Es8oTgrk3zdUcoV9gW9y"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+          "id": "2kxP07DLgs4xlWz8YHlvfh",
+          "name": "NIKI",
+          "type": "artist",
+          "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 171355,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "ZZOPM1900990"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ipqVwkp2MhZv0Ojzqy1NV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ipqVwkp2MhZv0Ojzqy1NV",
+      "id": "7ipqVwkp2MhZv0Ojzqy1NV",
+      "is_local": false,
+      "is_playable": true,
+      "name": "lowkey",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7ipqVwkp2MhZv0Ojzqy1NV"
+    },
+    "played_at": "2026-10-08T19:15:38.193Z",
+    "context": {
+      "type": "artist",
+      "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh",
+      "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QQgXkCYTt3BlENzhyNETg",
+            "id": "4QQgXkCYTt3BlENzhyNETg",
+            "name": "Earth, Wind & Fire",
+            "type": "artist",
+            "uri": "spotify:artist:4QQgXkCYTt3BlENzhyNETg"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+        },
+        "href": "https://api.spotify.com/v1/albums/4RLVTxnuVN5ZWZqBFnaaQt",
+        "id": "4RLVTxnuVN5ZWZqBFnaaQt",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028b2238ebc2b233ba73b8c4ca",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518b2238ebc2b233ba73b8c4ca",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "I Am",
+        "release_date": "1979-06",
+        "release_date_precision": "month",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QQgXkCYTt3BlENzhyNETg",
+          "id": "4QQgXkCYTt3BlENzhyNETg",
+          "name": "Earth, Wind & Fire",
+          "type": "artist",
+          "uri": "spotify:artist:4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 278001,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USSM19801712"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3cfnGXJ9bmiWvFqEO6ff8B",
+      "id": "3cfnGXJ9bmiWvFqEO6ff8B",
+      "is_local": false,
+      "is_playable": true,
+      "name": "After the Love Has Gone",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3cfnGXJ9bmiWvFqEO6ff8B"
+    },
+    "played_at": "2026-10-08T19:08:32.635Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QQgXkCYTt3BlENzhyNETg",
+            "id": "4QQgXkCYTt3BlENzhyNETg",
+            "name": "Earth, Wind & Fire",
+            "type": "artist",
+            "uri": "spotify:artist:4QQgXkCYTt3BlENzhyNETg"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+        },
+        "href": "https://api.spotify.com/v1/albums/4RLVTxnuVN5ZWZqBFnaaQt",
+        "id": "4RLVTxnuVN5ZWZqBFnaaQt",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028b2238ebc2b233ba73b8c4ca",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518b2238ebc2b233ba73b8c4ca",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "I Am",
+        "release_date": "1979-06",
+        "release_date_precision": "month",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QQgXkCYTt3BlENzhyNETg",
+          "id": "4QQgXkCYTt3BlENzhyNETg",
+          "name": "Earth, Wind & Fire",
+          "type": "artist",
+          "uri": "spotify:artist:4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 278001,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USSM19801712"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3cfnGXJ9bmiWvFqEO6ff8B",
+      "id": "3cfnGXJ9bmiWvFqEO6ff8B",
+      "is_local": false,
+      "is_playable": true,
+      "name": "After the Love Has Gone",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3cfnGXJ9bmiWvFqEO6ff8B"
+    },
+    "played_at": "2026-10-08T18:39:46.519Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QQgXkCYTt3BlENzhyNETg",
+            "id": "4QQgXkCYTt3BlENzhyNETg",
+            "name": "Earth, Wind & Fire",
+            "type": "artist",
+            "uri": "spotify:artist:4QQgXkCYTt3BlENzhyNETg"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+        },
+        "href": "https://api.spotify.com/v1/albums/4RLVTxnuVN5ZWZqBFnaaQt",
+        "id": "4RLVTxnuVN5ZWZqBFnaaQt",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028b2238ebc2b233ba73b8c4ca",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518b2238ebc2b233ba73b8c4ca",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "I Am",
+        "release_date": "1979-06",
+        "release_date_precision": "month",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QQgXkCYTt3BlENzhyNETg",
+          "id": "4QQgXkCYTt3BlENzhyNETg",
+          "name": "Earth, Wind & Fire",
+          "type": "artist",
+          "uri": "spotify:artist:4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 278001,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USSM19801712"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3cfnGXJ9bmiWvFqEO6ff8B",
+      "id": "3cfnGXJ9bmiWvFqEO6ff8B",
+      "is_local": false,
+      "is_playable": true,
+      "name": "After the Love Has Gone",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3cfnGXJ9bmiWvFqEO6ff8B"
+    },
+    "played_at": "2026-10-08T18:26:41.519Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1WfULcPJo2HjP13SaR2HLz"
+        },
+        "href": "https://api.spotify.com/v1/albums/1WfULcPJo2HjP13SaR2HLz",
+        "id": "1WfULcPJo2HjP13SaR2HLz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a6f0aa78d6ff3e78eb48a166",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a6f0aa78d6ff3e78eb48a166",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a6f0aa78d6ff3e78eb48a166",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "genie Verse Vol.1",
+        "release_date": "2026-07-21",
+        "release_date_precision": "day",
+        "total_tracks": 6,
+        "type": "album",
+        "uri": "spotify:album:1WfULcPJo2HjP13SaR2HLz"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2obSYixUts1MEx2lJfNTCJ",
+          "id": "2obSYixUts1MEx2lJfNTCJ",
+          "name": "GOODMOOD",
+          "type": "artist",
+          "uri": "spotify:artist:2obSYixUts1MEx2lJfNTCJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THG012600472"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5LglIfnj5EwZpTecOOe3a6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5LglIfnj5EwZpTecOOe3a6",
+      "id": "5LglIfnj5EwZpTecOOe3a6",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Miss Call",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5LglIfnj5EwZpTecOOe3a6"
+    },
+    "played_at": "2026-10-08T12:55:37.379Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+            "id": "6Y6kLVxQDSLwICQwHHO02H",
+            "name": "PURENESSLY",
+            "type": "artist",
+            "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0T56RbRqEZTQVEBLC7dY7F"
+        },
+        "href": "https://api.spotify.com/v1/albums/0T56RbRqEZTQVEBLC7dY7F",
+        "id": "0T56RbRqEZTQVEBLC7dY7F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef3b502ee8c1bcb708b60dc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef3b502ee8c1bcb708b60dc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef3b502ee8c1bcb708b60dc2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งึด (confused)",
+        "release_date": "2026-06-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0T56RbRqEZTQVEBLC7dY7F"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+          "id": "6Y6kLVxQDSLwICQwHHO02H",
+          "name": "PURENESSLY",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH2604567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wzfUQaNauIOxMFdXukyS9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wzfUQaNauIOxMFdXukyS9",
+      "id": "6wzfUQaNauIOxMFdXukyS9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งึด (confused)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wzfUQaNauIOxMFdXukyS9"
+    },
+    "played_at": "2026-10-08T05:16:58.011Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+            "id": "6Y6kLVxQDSLwICQwHHO02H",
+            "name": "PURENESSLY",
+            "type": "artist",
+            "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0T56RbRqEZTQVEBLC7dY7F"
+        },
+        "href": "https://api.spotify.com/v1/albums/0T56RbRqEZTQVEBLC7dY7F",
+        "id": "0T56RbRqEZTQVEBLC7dY7F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef3b502ee8c1bcb708b60dc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef3b502ee8c1bcb708b60dc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef3b502ee8c1bcb708b60dc2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งึด (confused)",
+        "release_date": "2026-06-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0T56RbRqEZTQVEBLC7dY7F"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+          "id": "6Y6kLVxQDSLwICQwHHO02H",
+          "name": "PURENESSLY",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH2604567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wzfUQaNauIOxMFdXukyS9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wzfUQaNauIOxMFdXukyS9",
+      "id": "6wzfUQaNauIOxMFdXukyS9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งึด (confused)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wzfUQaNauIOxMFdXukyS9"
+    },
+    "played_at": "2026-10-08T02:53:59.976Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+            "id": "6Y6kLVxQDSLwICQwHHO02H",
+            "name": "PURENESSLY",
+            "type": "artist",
+            "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0T56RbRqEZTQVEBLC7dY7F"
+        },
+        "href": "https://api.spotify.com/v1/albums/0T56RbRqEZTQVEBLC7dY7F",
+        "id": "0T56RbRqEZTQVEBLC7dY7F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef3b502ee8c1bcb708b60dc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef3b502ee8c1bcb708b60dc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef3b502ee8c1bcb708b60dc2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งึด (confused)",
+        "release_date": "2026-06-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0T56RbRqEZTQVEBLC7dY7F"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+          "id": "6Y6kLVxQDSLwICQwHHO02H",
+          "name": "PURENESSLY",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH2604567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wzfUQaNauIOxMFdXukyS9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wzfUQaNauIOxMFdXukyS9",
+      "id": "6wzfUQaNauIOxMFdXukyS9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งึด (confused)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wzfUQaNauIOxMFdXukyS9"
+    },
+    "played_at": "2026-10-07T19:46:45.480Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+            "id": "6Y6kLVxQDSLwICQwHHO02H",
+            "name": "PURENESSLY",
+            "type": "artist",
+            "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0T56RbRqEZTQVEBLC7dY7F"
+        },
+        "href": "https://api.spotify.com/v1/albums/0T56RbRqEZTQVEBLC7dY7F",
+        "id": "0T56RbRqEZTQVEBLC7dY7F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef3b502ee8c1bcb708b60dc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef3b502ee8c1bcb708b60dc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef3b502ee8c1bcb708b60dc2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งึด (confused)",
+        "release_date": "2026-06-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0T56RbRqEZTQVEBLC7dY7F"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+          "id": "6Y6kLVxQDSLwICQwHHO02H",
+          "name": "PURENESSLY",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH2604567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wzfUQaNauIOxMFdXukyS9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wzfUQaNauIOxMFdXukyS9",
+      "id": "6wzfUQaNauIOxMFdXukyS9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งึด (confused)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wzfUQaNauIOxMFdXukyS9"
+    },
+    "played_at": "2026-10-07T19:18:40.069Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+            "id": "6Y6kLVxQDSLwICQwHHO02H",
+            "name": "PURENESSLY",
+            "type": "artist",
+            "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0T56RbRqEZTQVEBLC7dY7F"
+        },
+        "href": "https://api.spotify.com/v1/albums/0T56RbRqEZTQVEBLC7dY7F",
+        "id": "0T56RbRqEZTQVEBLC7dY7F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef3b502ee8c1bcb708b60dc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef3b502ee8c1bcb708b60dc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef3b502ee8c1bcb708b60dc2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งึด (confused)",
+        "release_date": "2026-06-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0T56RbRqEZTQVEBLC7dY7F"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+          "id": "6Y6kLVxQDSLwICQwHHO02H",
+          "name": "PURENESSLY",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH2604567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wzfUQaNauIOxMFdXukyS9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wzfUQaNauIOxMFdXukyS9",
+      "id": "6wzfUQaNauIOxMFdXukyS9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งึด (confused)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wzfUQaNauIOxMFdXukyS9"
+    },
+    "played_at": "2026-10-07T17:51:07.577Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+            "id": "6Y6kLVxQDSLwICQwHHO02H",
+            "name": "PURENESSLY",
+            "type": "artist",
+            "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0T56RbRqEZTQVEBLC7dY7F"
+        },
+        "href": "https://api.spotify.com/v1/albums/0T56RbRqEZTQVEBLC7dY7F",
+        "id": "0T56RbRqEZTQVEBLC7dY7F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef3b502ee8c1bcb708b60dc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef3b502ee8c1bcb708b60dc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef3b502ee8c1bcb708b60dc2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งึด (confused)",
+        "release_date": "2026-06-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0T56RbRqEZTQVEBLC7dY7F"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+          "id": "6Y6kLVxQDSLwICQwHHO02H",
+          "name": "PURENESSLY",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH2604567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wzfUQaNauIOxMFdXukyS9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wzfUQaNauIOxMFdXukyS9",
+      "id": "6wzfUQaNauIOxMFdXukyS9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งึด (confused)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wzfUQaNauIOxMFdXukyS9"
+    },
+    "played_at": "2026-10-07T17:20:06.570Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+            "id": "6Y6kLVxQDSLwICQwHHO02H",
+            "name": "PURENESSLY",
+            "type": "artist",
+            "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0T56RbRqEZTQVEBLC7dY7F"
+        },
+        "href": "https://api.spotify.com/v1/albums/0T56RbRqEZTQVEBLC7dY7F",
+        "id": "0T56RbRqEZTQVEBLC7dY7F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef3b502ee8c1bcb708b60dc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef3b502ee8c1bcb708b60dc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef3b502ee8c1bcb708b60dc2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งึด (confused)",
+        "release_date": "2026-06-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0T56RbRqEZTQVEBLC7dY7F"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+          "id": "6Y6kLVxQDSLwICQwHHO02H",
+          "name": "PURENESSLY",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH2604567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wzfUQaNauIOxMFdXukyS9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wzfUQaNauIOxMFdXukyS9",
+      "id": "6wzfUQaNauIOxMFdXukyS9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งึด (confused)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wzfUQaNauIOxMFdXukyS9"
+    },
+    "played_at": "2026-10-07T11:37:24.828Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+            "id": "6Y6kLVxQDSLwICQwHHO02H",
+            "name": "PURENESSLY",
+            "type": "artist",
+            "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0T56RbRqEZTQVEBLC7dY7F"
+        },
+        "href": "https://api.spotify.com/v1/albums/0T56RbRqEZTQVEBLC7dY7F",
+        "id": "0T56RbRqEZTQVEBLC7dY7F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef3b502ee8c1bcb708b60dc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef3b502ee8c1bcb708b60dc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef3b502ee8c1bcb708b60dc2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งึด (confused)",
+        "release_date": "2026-06-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0T56RbRqEZTQVEBLC7dY7F"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+          "id": "6Y6kLVxQDSLwICQwHHO02H",
+          "name": "PURENESSLY",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH2604567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wzfUQaNauIOxMFdXukyS9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wzfUQaNauIOxMFdXukyS9",
+      "id": "6wzfUQaNauIOxMFdXukyS9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งึด (confused)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wzfUQaNauIOxMFdXukyS9"
+    },
+    "played_at": "2026-10-06T22:49:15.422Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+            "id": "6Y6kLVxQDSLwICQwHHO02H",
+            "name": "PURENESSLY",
+            "type": "artist",
+            "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0T56RbRqEZTQVEBLC7dY7F"
+        },
+        "href": "https://api.spotify.com/v1/albums/0T56RbRqEZTQVEBLC7dY7F",
+        "id": "0T56RbRqEZTQVEBLC7dY7F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef3b502ee8c1bcb708b60dc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef3b502ee8c1bcb708b60dc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef3b502ee8c1bcb708b60dc2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งึด (confused)",
+        "release_date": "2026-06-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0T56RbRqEZTQVEBLC7dY7F"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+          "id": "6Y6kLVxQDSLwICQwHHO02H",
+          "name": "PURENESSLY",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH2604567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wzfUQaNauIOxMFdXukyS9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wzfUQaNauIOxMFdXukyS9",
+      "id": "6wzfUQaNauIOxMFdXukyS9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งึด (confused)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wzfUQaNauIOxMFdXukyS9"
+    },
+    "played_at": "2026-10-06T18:32:56.372Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+            "id": "6Y6kLVxQDSLwICQwHHO02H",
+            "name": "PURENESSLY",
+            "type": "artist",
+            "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0T56RbRqEZTQVEBLC7dY7F"
+        },
+        "href": "https://api.spotify.com/v1/albums/0T56RbRqEZTQVEBLC7dY7F",
+        "id": "0T56RbRqEZTQVEBLC7dY7F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef3b502ee8c1bcb708b60dc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef3b502ee8c1bcb708b60dc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef3b502ee8c1bcb708b60dc2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งึด (confused)",
+        "release_date": "2026-06-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0T56RbRqEZTQVEBLC7dY7F"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+          "id": "6Y6kLVxQDSLwICQwHHO02H",
+          "name": "PURENESSLY",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH2604567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wzfUQaNauIOxMFdXukyS9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wzfUQaNauIOxMFdXukyS9",
+      "id": "6wzfUQaNauIOxMFdXukyS9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งึด (confused)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wzfUQaNauIOxMFdXukyS9"
+    },
+    "played_at": "2026-10-06T18:27:13.183Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+            "id": "6Y6kLVxQDSLwICQwHHO02H",
+            "name": "PURENESSLY",
+            "type": "artist",
+            "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0T56RbRqEZTQVEBLC7dY7F"
+        },
+        "href": "https://api.spotify.com/v1/albums/0T56RbRqEZTQVEBLC7dY7F",
+        "id": "0T56RbRqEZTQVEBLC7dY7F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef3b502ee8c1bcb708b60dc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef3b502ee8c1bcb708b60dc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef3b502ee8c1bcb708b60dc2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งึด (confused)",
+        "release_date": "2026-06-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0T56RbRqEZTQVEBLC7dY7F"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+          "id": "6Y6kLVxQDSLwICQwHHO02H",
+          "name": "PURENESSLY",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH2604567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wzfUQaNauIOxMFdXukyS9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wzfUQaNauIOxMFdXukyS9",
+      "id": "6wzfUQaNauIOxMFdXukyS9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งึด (confused)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wzfUQaNauIOxMFdXukyS9"
+    },
+    "played_at": "2026-10-06T18:03:35.347Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Z8FKrzWUtf9Ra8Man46xW"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Z8FKrzWUtf9Ra8Man46xW",
+            "id": "6Z8FKrzWUtf9Ra8Man46xW",
+            "name": "cheriie",
+            "type": "artist",
+            "uri": "spotify:artist:6Z8FKrzWUtf9Ra8Man46xW"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1hhBkV9UWqfl7E2P65hbjz"
+        },
+        "href": "https://api.spotify.com/v1/albums/1hhBkV9UWqfl7E2P65hbjz",
+        "id": "1hhBkV9UWqfl7E2P65hbjz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733fc62a1f6adeed870e5609eb",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023fc62a1f6adeed870e5609eb",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513fc62a1f6adeed870e5609eb",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "ภาพโปรด (Stripped Down Version)",
+        "release_date": "2026-10-05",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1hhBkV9UWqfl7E2P65hbjz"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Z8FKrzWUtf9Ra8Man46xW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Z8FKrzWUtf9Ra8Man46xW",
+          "id": "6Z8FKrzWUtf9Ra8Man46xW",
+          "name": "cheriie",
+          "type": "artist",
+          "uri": "spotify:artist:6Z8FKrzWUtf9Ra8Man46xW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235555,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "FRX872630799"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7mRmDEVczxum9kjKwd3sTE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7mRmDEVczxum9kjKwd3sTE",
+      "id": "7mRmDEVczxum9kjKwd3sTE",
+      "is_local": false,
+      "is_playable": true,
+      "name": "ภาพโปรด - Stripped Down Version",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7mRmDEVczxum9kjKwd3sTE"
+    },
+    "played_at": "2026-10-06T17:26:20.296Z",
+    "context": {
+      "type": "album",
+      "uri": "spotify:album:1hhBkV9UWqfl7E2P65hbjz",
+      "href": "https://api.spotify.com/v1/albums/1hhBkV9UWqfl7E2P65hbjz",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1hhBkV9UWqfl7E2P65hbjz"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+            },
+            "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+            "id": "2SWWw5uB9cO5m7zJQZqwmr",
+            "name": "BOWKYLION",
+            "type": "artist",
+            "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0qURIvrgnASosbxKfgwxpr"
+        },
+        "href": "https://api.spotify.com/v1/albums/0qURIvrgnASosbxKfgwxpr",
+        "id": "0qURIvrgnASosbxKfgwxpr",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738ace3e29045e35179313e68a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028ace3e29045e35179313e68a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518ace3e29045e35179313e68a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "CHERRY",
+        "release_date": "2024-11-19",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:0qURIvrgnASosbxKfgwxpr"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+          "id": "2SWWw5uB9cO5m7zJQZqwmr",
+          "name": "BOWKYLION",
+          "type": "artist",
+          "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 28965,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THWTD2422100"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6NO6wsxAQGYuNxZblnm41L"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6NO6wsxAQGYuNxZblnm41L",
+      "id": "6NO6wsxAQGYuNxZblnm41L",
+      "is_local": false,
+      "is_playable": true,
+      "name": "ส ม เ พ ช (sympathy)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6NO6wsxAQGYuNxZblnm41L"
+    },
+    "played_at": "2026-10-06T17:21:47.928Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+            "id": "6Y6kLVxQDSLwICQwHHO02H",
+            "name": "PURENESSLY",
+            "type": "artist",
+            "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0T56RbRqEZTQVEBLC7dY7F"
+        },
+        "href": "https://api.spotify.com/v1/albums/0T56RbRqEZTQVEBLC7dY7F",
+        "id": "0T56RbRqEZTQVEBLC7dY7F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef3b502ee8c1bcb708b60dc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef3b502ee8c1bcb708b60dc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef3b502ee8c1bcb708b60dc2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งึด (confused)",
+        "release_date": "2026-06-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0T56RbRqEZTQVEBLC7dY7F"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+          "id": "6Y6kLVxQDSLwICQwHHO02H",
+          "name": "PURENESSLY",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH2604567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wzfUQaNauIOxMFdXukyS9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wzfUQaNauIOxMFdXukyS9",
+      "id": "6wzfUQaNauIOxMFdXukyS9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งึด (confused)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wzfUQaNauIOxMFdXukyS9"
+    },
+    "played_at": "2026-10-06T16:10:23.329Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+            "id": "6Y6kLVxQDSLwICQwHHO02H",
+            "name": "PURENESSLY",
+            "type": "artist",
+            "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0T56RbRqEZTQVEBLC7dY7F"
+        },
+        "href": "https://api.spotify.com/v1/albums/0T56RbRqEZTQVEBLC7dY7F",
+        "id": "0T56RbRqEZTQVEBLC7dY7F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef3b502ee8c1bcb708b60dc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef3b502ee8c1bcb708b60dc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef3b502ee8c1bcb708b60dc2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งึด (confused)",
+        "release_date": "2026-06-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0T56RbRqEZTQVEBLC7dY7F"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+          "id": "6Y6kLVxQDSLwICQwHHO02H",
+          "name": "PURENESSLY",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH2604567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wzfUQaNauIOxMFdXukyS9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wzfUQaNauIOxMFdXukyS9",
+      "id": "6wzfUQaNauIOxMFdXukyS9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งึด (confused)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wzfUQaNauIOxMFdXukyS9"
+    },
+    "played_at": "2026-10-06T14:37:33.384Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6BBBmNzdjL9l6w57ckKvAZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6BBBmNzdjL9l6w57ckKvAZ",
+            "id": "6BBBmNzdjL9l6w57ckKvAZ",
+            "name": "คาราบาว",
+            "type": "artist",
+            "uri": "spotify:artist:6BBBmNzdjL9l6w57ckKvAZ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0OLFFoPfVpyftCaBX6pCTs"
+            },
+            "href": "https://api.spotify.com/v1/artists/0OLFFoPfVpyftCaBX6pCTs",
+            "id": "0OLFFoPfVpyftCaBX6pCTs",
+            "name": "ปาน ธนพร",
+            "type": "artist",
+            "uri": "spotify:artist:0OLFFoPfVpyftCaBX6pCTs"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6RwLh3dou0Xt5xUzrCYhgO"
+        },
+        "href": "https://api.spotify.com/v1/albums/6RwLh3dou0Xt5xUzrCYhgO",
+        "id": "6RwLh3dou0Xt5xUzrCYhgO",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27315129bca9130f8f80694c0bd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0215129bca9130f8f80694c0bd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485115129bca9130f8f80694c0bd",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "หนุ่มบาว - สาวปาน",
+        "release_date": "2005-12-08",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:6RwLh3dou0Xt5xUzrCYhgO"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6BBBmNzdjL9l6w57ckKvAZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6BBBmNzdjL9l6w57ckKvAZ",
+          "id": "6BBBmNzdjL9l6w57ckKvAZ",
+          "name": "คาราบาว",
+          "type": "artist",
+          "uri": "spotify:artist:6BBBmNzdjL9l6w57ckKvAZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OLFFoPfVpyftCaBX6pCTs"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OLFFoPfVpyftCaBX6pCTs",
+          "id": "0OLFFoPfVpyftCaBX6pCTs",
+          "name": "ปาน ธนพร",
+          "type": "artist",
+          "uri": "spotify:artist:0OLFFoPfVpyftCaBX6pCTs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 280840,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THRSP1207173"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/041sEWWCjNP2jdgPm2Ybiy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/041sEWWCjNP2jdgPm2Ybiy",
+      "id": "041sEWWCjNP2jdgPm2Ybiy",
+      "is_local": false,
+      "is_playable": true,
+      "name": "หนุ่มบาว - สาวปาน",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:041sEWWCjNP2jdgPm2Ybiy"
+    },
+    "played_at": "2026-10-06T14:01:03.979Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+            "id": "6Y6kLVxQDSLwICQwHHO02H",
+            "name": "PURENESSLY",
+            "type": "artist",
+            "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0T56RbRqEZTQVEBLC7dY7F"
+        },
+        "href": "https://api.spotify.com/v1/albums/0T56RbRqEZTQVEBLC7dY7F",
+        "id": "0T56RbRqEZTQVEBLC7dY7F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef3b502ee8c1bcb708b60dc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef3b502ee8c1bcb708b60dc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef3b502ee8c1bcb708b60dc2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งึด (confused)",
+        "release_date": "2026-06-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0T56RbRqEZTQVEBLC7dY7F"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6kLVxQDSLwICQwHHO02H"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6kLVxQDSLwICQwHHO02H",
+          "id": "6Y6kLVxQDSLwICQwHHO02H",
+          "name": "PURENESSLY",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6kLVxQDSLwICQwHHO02H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSOH2604567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wzfUQaNauIOxMFdXukyS9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wzfUQaNauIOxMFdXukyS9",
+      "id": "6wzfUQaNauIOxMFdXukyS9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งึด (confused)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wzfUQaNauIOxMFdXukyS9"
+    },
+    "played_at": "2026-10-06T12:51:29.133Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1kUVa9zNj2ohZptBv4uK8c"
+            },
+            "href": "https://api.spotify.com/v1/artists/1kUVa9zNj2ohZptBv4uK8c",
+            "id": "1kUVa9zNj2ohZptBv4uK8c",
+            "name": "Num KALA",
+            "type": "artist",
+            "uri": "spotify:artist:1kUVa9zNj2ohZptBv4uK8c"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5DTAQmTB4YhTSVb1okzcXO"
+        },
+        "href": "https://api.spotify.com/v1/albums/5DTAQmTB4YhTSVb1okzcXO",
+        "id": "5DTAQmTB4YhTSVb1okzcXO",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27318c557ce0fcaefcb3b9594a1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0218c557ce0fcaefcb3b9594a1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485118c557ce0fcaefcb3b9594a1",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Time to Smile",
+        "release_date": "2019-10-09",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:5DTAQmTB4YhTSVb1okzcXO"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1kUVa9zNj2ohZptBv4uK8c"
+          },
+          "href": "https://api.spotify.com/v1/artists/1kUVa9zNj2ohZptBv4uK8c",
+          "id": "1kUVa9zNj2ohZptBv4uK8c",
+          "name": "Num KALA",
+          "type": "artist",
+          "uri": "spotify:artist:1kUVa9zNj2ohZptBv4uK8c"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 223044,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THG011900654"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/59lVTXGHhWxudLNoNLKfOM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/59lVTXGHhWxudLNoNLKfOM",
+      "id": "59lVTXGHhWxudLNoNLKfOM",
+      "is_local": false,
+      "is_playable": true,
+      "name": "ปล่อย",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:59lVTXGHhWxudLNoNLKfOM"
+    },
+    "played_at": "2026-10-06T12:03:24.492Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp?sessionId=1791244800002&mode=enhanced",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+            "id": "1Twi7NfmUzbXF7lEMaGCqF",
+            "name": "Ink Waruntorn",
+            "type": "artist",
+            "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/729AMSy8S2eReoEA2FYCLZ"
+        },
+        "href": "https://api.spotify.com/v1/albums/729AMSy8S2eReoEA2FYCLZ",
+        "id": "729AMSy8S2eReoEA2FYCLZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27303f6ed3ae64666b630898f2e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0203f6ed3ae64666b630898f2e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485103f6ed3ae64666b630898f2e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "เหงา เหงา (Insomnia)",
+        "release_date": "2016-02-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:729AMSy8S2eReoEA2FYCLZ"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Twi7NfmUzbXF7lEMaGCqF",
+          "id": "1Twi7NfmUzbXF7lEMaGCqF",
+          "name": "Ink Waruntorn",
+          "type": "artist",
+          "uri": "spotify:artist:1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 292168,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THMUN1360129"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2DuJ5BNd0dYT2Un5MyW4cT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2DuJ5BNd0dYT2Un5MyW4cT",
+      "id": "2DuJ5BNd0dYT2Un5MyW4cT",
+      "is_local": false,
+      "is_playable": true,
+      "name": "เหงา เหงา (Insomnia)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2DuJ5BNd0dYT2Un5MyW4cT"
+    },
+    "played_at": "2026-10-06T11:24:01.110Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp?sessionId=1791244800002&mode=enhanced",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zSMaWnvUzyNlOW0Tj2s4N",
+            "id": "3zSMaWnvUzyNlOW0Tj2s4N",
+            "name": "SCRUBB",
+            "type": "artist",
+            "uri": "spotify:artist:3zSMaWnvUzyNlOW0Tj2s4N"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0Q85NYeTS69jKGLilCR5Y2"
+        },
+        "href": "https://api.spotify.com/v1/albums/0Q85NYeTS69jKGLilCR5Y2",
+        "id": "0Q85NYeTS69jKGLilCR5Y2",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273271b9b8a6563a6679c9dbe35",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02271b9b8a6563a6679c9dbe35",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851271b9b8a6563a6679c9dbe35",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "clean",
+        "release_date": "2013-12-18",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:0Q85NYeTS69jKGLilCR5Y2"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+          },
+          "href": "https://api.spotify.com/v1/artists/3zSMaWnvUzyNlOW0Tj2s4N",
+          "id": "3zSMaWnvUzyNlOW0Tj2s4N",
+          "name": "SCRUBB",
+          "type": "artist",
+          "uri": "spotify:artist:3zSMaWnvUzyNlOW0Tj2s4N"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258401,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THBEC0000220"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ezEwX2eZRZlioqYaUPOKX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6ezEwX2eZRZlioqYaUPOKX",
+      "id": "6ezEwX2eZRZlioqYaUPOKX",
+      "is_local": false,
+      "is_playable": true,
+      "name": "รอยยิ้ม",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6ezEwX2eZRZlioqYaUPOKX"
+    },
+    "played_at": "2026-10-06T11:17:52.897Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp?sessionId=1791244800002&mode=enhanced",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+            },
+            "href": "https://api.spotify.com/v1/artists/1qAOsY7jv9GFTv4HoVof5P",
+            "id": "1qAOsY7jv9GFTv4HoVof5P",
+            "name": "Three Man Down",
+            "type": "artist",
+            "uri": "spotify:artist:1qAOsY7jv9GFTv4HoVof5P"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2CW683T46NKuomRUrqv00W"
+        },
+        "href": "https://api.spotify.com/v1/albums/2CW683T46NKuomRUrqv00W",
+        "id": "2CW683T46NKuomRUrqv00W",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732bff7ebac2ac29d107d284e7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022bff7ebac2ac29d107d284e7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512bff7ebac2ac29d107d284e7",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "This City Won't Be Lonely Anymore",
+        "release_date": "2021-03-25",
+        "release_date_precision": "day",
+        "total_tracks": 17,
+        "type": "album",
+        "uri": "spotify:album:2CW683T46NKuomRUrqv00W"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+          },
+          "href": "https://api.spotify.com/v1/artists/1qAOsY7jv9GFTv4HoVof5P",
+          "id": "1qAOsY7jv9GFTv4HoVof5P",
+          "name": "Three Man Down",
+          "type": "artist",
+          "uri": "spotify:artist:1qAOsY7jv9GFTv4HoVof5P"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THG011800580"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6EXQx7B7sWNmD3bYgcUY6Q"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6EXQx7B7sWNmD3bYgcUY6Q",
+      "id": "6EXQx7B7sWNmD3bYgcUY6Q",
+      "is_local": false,
+      "is_playable": true,
+      "name": "ผ่านตา",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6EXQx7B7sWNmD3bYgcUY6Q"
+    },
+    "played_at": "2026-10-06T11:13:33.992Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp?sessionId=1791244800002&mode=enhanced",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+            },
+            "href": "https://api.spotify.com/v1/artists/5pokGZ1K9Hr6etaKPDxSG8",
+            "id": "5pokGZ1K9Hr6etaKPDxSG8",
+            "name": "THE TOYS",
+            "type": "artist",
+            "uri": "spotify:artist:5pokGZ1K9Hr6etaKPDxSG8"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+            },
+            "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+            "id": "6chmC6o0wvACYVGTITw3Pz",
+            "name": "NONT TANONT",
+            "type": "artist",
+            "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/24Dia3M1yR3haAf4U83Sn5"
+        },
+        "href": "https://api.spotify.com/v1/albums/24Dia3M1yR3haAf4U83Sn5",
+        "id": "24Dia3M1yR3haAf4U83Sn5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737009ce6b416c810cb36a08d3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027009ce6b416c810cb36a08d3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517009ce6b416c810cb36a08d3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "ดอกไม้ที่รอฝน (spring)",
+        "release_date": "2024-07-19",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:24Dia3M1yR3haAf4U83Sn5"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pokGZ1K9Hr6etaKPDxSG8",
+          "id": "5pokGZ1K9Hr6etaKPDxSG8",
+          "name": "THE TOYS",
+          "type": "artist",
+          "uri": "spotify:artist:5pokGZ1K9Hr6etaKPDxSG8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+          "id": "6chmC6o0wvACYVGTITw3Pz",
+          "name": "NONT TANONT",
+          "type": "artist",
+          "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THWTD2415100"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/510TKpbFquRZzk80oLgbaM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/510TKpbFquRZzk80oLgbaM",
+      "id": "510TKpbFquRZzk80oLgbaM",
+      "is_local": false,
+      "is_playable": true,
+      "name": "ดอกไม้ที่รอฝน (spring)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:510TKpbFquRZzk80oLgbaM"
+    },
+    "played_at": "2026-10-06T11:10:12.485Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mo2KIBy0Wh0TFaXKqo3F2"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mo2KIBy0Wh0TFaXKqo3F2",
+            "id": "4mo2KIBy0Wh0TFaXKqo3F2",
+            "name": "Punch",
+            "type": "artist",
+            "uri": "spotify:artist:4mo2KIBy0Wh0TFaXKqo3F2"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1IozWZnMMFlQl8AH6kQEAA"
+        },
+        "href": "https://api.spotify.com/v1/albums/1IozWZnMMFlQl8AH6kQEAA",
+        "id": "1IozWZnMMFlQl8AH6kQEAA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c35a9b9602fddeb937d56372",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c35a9b9602fddeb937d56372",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c35a9b9602fddeb937d56372",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "ผู้หญิงกลางสายฝน",
+        "release_date": "2006-02-28",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:1IozWZnMMFlQl8AH6kQEAA"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4mo2KIBy0Wh0TFaXKqo3F2"
+          },
+          "href": "https://api.spotify.com/v1/artists/4mo2KIBy0Wh0TFaXKqo3F2",
+          "id": "4mo2KIBy0Wh0TFaXKqo3F2",
+          "name": "Punch",
+          "type": "artist",
+          "uri": "spotify:artist:4mo2KIBy0Wh0TFaXKqo3F2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 250693,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THG010731459"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3aZMimn4QjpvPHsv63irn4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3aZMimn4QjpvPHsv63irn4",
+      "id": "3aZMimn4QjpvPHsv63irn4",
+      "is_local": false,
+      "is_playable": true,
+      "name": "เดี๋ยวเหอะ",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:3aZMimn4QjpvPHsv63irn4"
+    },
+    "played_at": "2026-10-06T11:00:23.354Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6MyX5SUUgvZAeNkMZ8CAuX"
+            },
+            "href": "https://api.spotify.com/v1/artists/6MyX5SUUgvZAeNkMZ8CAuX",
+            "id": "6MyX5SUUgvZAeNkMZ8CAuX",
+            "name": "La Ong Fong",
+            "type": "artist",
+            "uri": "spotify:artist:6MyX5SUUgvZAeNkMZ8CAuX"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4yfVJvlJu9pUSesrvwLnVF"
+        },
+        "href": "https://api.spotify.com/v1/albums/4yfVJvlJu9pUSesrvwLnVF",
+        "id": "4yfVJvlJu9pUSesrvwLnVF",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273947bdcaa486a1e891acb5a9e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02947bdcaa486a1e891acb5a9e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851947bdcaa486a1e891acb5a9e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Wind Up City",
+        "release_date": "2011-05-12",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:4yfVJvlJu9pUSesrvwLnVF"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MyX5SUUgvZAeNkMZ8CAuX"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MyX5SUUgvZAeNkMZ8CAuX",
+          "id": "6MyX5SUUgvZAeNkMZ8CAuX",
+          "name": "La Ong Fong",
+          "type": "artist",
+          "uri": "spotify:artist:6MyX5SUUgvZAeNkMZ8CAuX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 287386,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THSPD1500002"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6s3rlRxQuPpi56PmM111zw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6s3rlRxQuPpi56PmM111zw",
+      "id": "6s3rlRxQuPpi56PmM111zw",
+      "is_local": false,
+      "is_playable": true,
+      "name": "แอบชอบ",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6s3rlRxQuPpi56PmM111zw"
+    },
+    "played_at": "2026-10-06T09:48:32.073Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/32bq0Oy4ygWPR5ItUM5J5M"
+            },
+            "href": "https://api.spotify.com/v1/artists/32bq0Oy4ygWPR5ItUM5J5M",
+            "id": "32bq0Oy4ygWPR5ItUM5J5M",
+            "name": "Paradox",
+            "type": "artist",
+            "uri": "spotify:artist:32bq0Oy4ygWPR5ItUM5J5M"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6C9q2c2BTATW8uzQpxuBYR"
+        },
+        "href": "https://api.spotify.com/v1/albums/6C9q2c2BTATW8uzQpxuBYR",
+        "id": "6C9q2c2BTATW8uzQpxuBYR",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b09bfc8da743c5931742ff18",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b09bfc8da743c5931742ff18",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b09bfc8da743c5931742ff18",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "ETERNITY / INFINITY",
+        "release_date": "2025-06-06",
+        "release_date_precision": "day",
+        "total_tracks": 22,
+        "type": "album",
+        "uri": "spotify:album:6C9q2c2BTATW8uzQpxuBYR"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/32bq0Oy4ygWPR5ItUM5J5M"
+          },
+          "href": "https://api.spotify.com/v1/artists/32bq0Oy4ygWPR5ItUM5J5M",
+          "id": "32bq0Oy4ygWPR5ItUM5J5M",
+          "name": "Paradox",
+          "type": "artist",
+          "uri": "spotify:artist:32bq0Oy4ygWPR5ItUM5J5M"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 250363,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THG011800792"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0K5SoGgWcq5xIRE8CoMC7P"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0K5SoGgWcq5xIRE8CoMC7P",
+      "id": "0K5SoGgWcq5xIRE8CoMC7P",
+      "is_local": false,
+      "is_playable": true,
+      "name": "เขียนไว้ข้างเตียง",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:0K5SoGgWcq5xIRE8CoMC7P"
+    },
+    "played_at": "2026-10-05T12:58:19.970Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zSMaWnvUzyNlOW0Tj2s4N",
+            "id": "3zSMaWnvUzyNlOW0Tj2s4N",
+            "name": "SCRUBB",
+            "type": "artist",
+            "uri": "spotify:artist:3zSMaWnvUzyNlOW0Tj2s4N"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L"
+        },
+        "href": "https://api.spotify.com/v1/albums/3FIStO0Jqw4wX6aXbvDd6L",
+        "id": "3FIStO0Jqw4wX6aXbvDd6L",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273319ad0daa5c74865ecf75f66",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02319ad0daa5c74865ecf75f66",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851319ad0daa5c74865ecf75f66",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Club",
+        "release_date": "2005-06-21",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:3FIStO0Jqw4wX6aXbvDd6L"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+          },
+          "href": "https://api.spotify.com/v1/artists/3zSMaWnvUzyNlOW0Tj2s4N",
+          "id": "3zSMaWnvUzyNlOW0Tj2s4N",
+          "name": "SCRUBB",
+          "type": "artist",
+          "uri": "spotify:artist:3zSMaWnvUzyNlOW0Tj2s4N"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257640,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THS080502402"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4r3UvwePMdXPJrqFautgTq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4r3UvwePMdXPJrqFautgTq",
+      "id": "4r3UvwePMdXPJrqFautgTq",
+      "is_local": false,
+      "is_playable": true,
+      "name": "ใกล้",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4r3UvwePMdXPJrqFautgTq"
+    },
+    "played_at": "2026-10-05T12:49:18.961Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+            },
+            "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+            "id": "6chmC6o0wvACYVGTITw3Pz",
+            "name": "NONT TANONT",
+            "type": "artist",
+            "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2qOC78skUSP5Z8SmKiLjhM"
+        },
+        "href": "https://api.spotify.com/v1/albums/2qOC78skUSP5Z8SmKiLjhM",
+        "id": "2qOC78skUSP5Z8SmKiLjhM",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fbc348557597656fcc80c974",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fbc348557597656fcc80c974",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fbc348557597656fcc80c974",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "MONO / SPECTRUM",
+        "release_date": "2025-11-06",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:2qOC78skUSP5Z8SmKiLjhM"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+          "id": "6chmC6o0wvACYVGTITw3Pz",
+          "name": "NONT TANONT",
+          "type": "artist",
+          "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 280573,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "DGA062550953"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1at4Ge78paOwskzpaMlTHN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1at4Ge78paOwskzpaMlTHN",
+      "id": "1at4Ge78paOwskzpaMlTHN",
+      "is_local": false,
+      "is_playable": true,
+      "name": "ความทรงจำที่แสนดี (Afterglow)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1at4Ge78paOwskzpaMlTHN"
+    },
+    "played_at": "2026-10-04T17:41:59.277Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+            },
+            "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+            "id": "6chmC6o0wvACYVGTITw3Pz",
+            "name": "NONT TANONT",
+            "type": "artist",
+            "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2qOC78skUSP5Z8SmKiLjhM"
+        },
+        "href": "https://api.spotify.com/v1/albums/2qOC78skUSP5Z8SmKiLjhM",
+        "id": "2qOC78skUSP5Z8SmKiLjhM",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fbc348557597656fcc80c974",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fbc348557597656fcc80c974",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fbc348557597656fcc80c974",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "MONO / SPECTRUM",
+        "release_date": "2025-11-06",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:2qOC78skUSP5Z8SmKiLjhM"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+          "id": "6chmC6o0wvACYVGTITw3Pz",
+          "name": "NONT TANONT",
+          "type": "artist",
+          "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 280573,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "DGA062550953"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1at4Ge78paOwskzpaMlTHN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1at4Ge78paOwskzpaMlTHN",
+      "id": "1at4Ge78paOwskzpaMlTHN",
+      "is_local": false,
+      "is_playable": true,
+      "name": "ความทรงจำที่แสนดี (Afterglow)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1at4Ge78paOwskzpaMlTHN"
+    },
+    "played_at": "2026-10-04T17:21:22.251Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+            },
+            "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+            "id": "6chmC6o0wvACYVGTITw3Pz",
+            "name": "NONT TANONT",
+            "type": "artist",
+            "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2qOC78skUSP5Z8SmKiLjhM"
+        },
+        "href": "https://api.spotify.com/v1/albums/2qOC78skUSP5Z8SmKiLjhM",
+        "id": "2qOC78skUSP5Z8SmKiLjhM",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fbc348557597656fcc80c974",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fbc348557597656fcc80c974",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fbc348557597656fcc80c974",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "MONO / SPECTRUM",
+        "release_date": "2025-11-06",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:2qOC78skUSP5Z8SmKiLjhM"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+          "id": "6chmC6o0wvACYVGTITw3Pz",
+          "name": "NONT TANONT",
+          "type": "artist",
+          "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 280573,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "DGA062550953"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1at4Ge78paOwskzpaMlTHN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1at4Ge78paOwskzpaMlTHN",
+      "id": "1at4Ge78paOwskzpaMlTHN",
+      "is_local": false,
+      "is_playable": true,
+      "name": "ความทรงจำที่แสนดี (Afterglow)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1at4Ge78paOwskzpaMlTHN"
+    },
+    "played_at": "2026-10-04T17:16:41.195Z",
+    "context": null
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+            },
+            "href": "https://api.spotify.com/v1/artists/6JrR3zrG0NQiXb9N9XSyGb",
+            "id": "6JrR3zrG0NQiXb9N9XSyGb",
+            "name": "Cocktail",
+            "type": "artist",
+            "uri": "spotify:artist:6JrR3zrG0NQiXb9N9XSyGb"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6oxZushfAZmSuAxO0B4ZPo"
+        },
+        "href": "https://api.spotify.com/v1/albums/6oxZushfAZmSuAxO0B4ZPo",
+        "id": "6oxZushfAZmSuAxO0B4ZPo",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dddb6990c52e1665099a2128",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dddb6990c52e1665099a2128",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dddb6990c52e1665099a2128",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "งานเต้นรำในคืนพระจันทร์เต็มดวง (เพลงประกอบละคร \"ลูกไม้ลายสนธยา\")",
+        "release_date": "2018-08-30",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6oxZushfAZmSuAxO0B4ZPo"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JrR3zrG0NQiXb9N9XSyGb",
+          "id": "6JrR3zrG0NQiXb9N9XSyGb",
+          "name": "Cocktail",
+          "type": "artist",
+          "uri": "spotify:artist:6JrR3zrG0NQiXb9N9XSyGb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 282631,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THG011800570"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7o9Rys39g1EaRhXtM5BsQa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7o9Rys39g1EaRhXtM5BsQa",
+      "id": "7o9Rys39g1EaRhXtM5BsQa",
+      "is_local": false,
+      "is_playable": true,
+      "name": "งานเต้นรำในคืนพระจันทร์เต็มดวง - เพลงประกอบละคร \"ลูกไม้ลายสนธยา\"",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7o9Rys39g1EaRhXtM5BsQa"
+    },
+    "played_at": "2026-10-04T10:35:39.477Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ZUdKB3VGo26BxRSmnv5n2"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ZUdKB3VGo26BxRSmnv5n2",
+            "id": "3ZUdKB3VGo26BxRSmnv5n2",
+            "name": "SPF",
+            "type": "artist",
+            "uri": "spotify:artist:3ZUdKB3VGo26BxRSmnv5n2"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/29mC3mS9pmusHnZeAA1oH4"
+        },
+        "href": "https://api.spotify.com/v1/albums/29mC3mS9pmusHnZeAA1oH4",
+        "id": "29mC3mS9pmusHnZeAA1oH4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735fed9088f057bcec9ef9f25a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025fed9088f057bcec9ef9f25a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515fed9088f057bcec9ef9f25a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "9 นาฬิกา",
+        "release_date": "2015-05-11",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:29mC3mS9pmusHnZeAA1oH4"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZUdKB3VGo26BxRSmnv5n2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZUdKB3VGo26BxRSmnv5n2",
+          "id": "3ZUdKB3VGo26BxRSmnv5n2",
+          "name": "SPF",
+          "type": "artist",
+          "uri": "spotify:artist:3ZUdKB3VGo26BxRSmnv5n2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242181,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "THMON1500269"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1RIcNj56JKuH0WB9AyNARB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1RIcNj56JKuH0WB9AyNARB",
+      "id": "1RIcNj56JKuH0WB9AyNARB",
+      "is_local": false,
+      "is_playable": true,
+      "name": "9 นาฬิกา",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1RIcNj56JKuH0WB9AyNARB"
+    },
+    "played_at": "2026-10-04T09:31:37.767Z",
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:6XkseeNpTCYx0n2BELu6Lp",
+      "href": "https://api.spotify.com/v1/playlists/6XkseeNpTCYx0n2BELu6Lp",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6XkseeNpTCYx0n2BELu6Lp"
+      }
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            },
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8",
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8",
+            "name": "CeeLo Green",
+            "type": "artist",
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5uR0dqBMYWZFYJT7mvPZ82"
+        },
+        "href": "https://api.spotify.com/v1/albums/5uR0dqBMYWZFYJT7mvPZ82",
+        "id": "5uR0dqBMYWZFYJT7mvPZ82",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731c44d79c994c1a26aa387617",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021c44d79c994c1a26aa387617",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511c44d79c994c1a26aa387617",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "The Lady Killer (Deluxe)",
+        "release_date": "2010-11-09",
+        "release_date_precision": "day",
+        "total_tracks": 17,
+        "type": "album",
+        "uri": "spotify:album:5uR0dqBMYWZFYJT7mvPZ82"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8",
+          "id": "5nLYd9ST4Cnwy6NHaCxbj8",
+          "name": "CeeLo Green",
+          "type": "artist",
+          "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 223694,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USAT21001785"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3ydfhgIZIc2j39NLIhpJpq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3ydfhgIZIc2j39NLIhpJpq",
+      "id": "3ydfhgIZIc2j39NLIhpJpq",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Fuck You",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:3ydfhgIZIc2j39NLIhpJpq"
+    },
+    "played_at": "2026-10-04T09:26:40.719Z",
+    "context": null
+  }
+]

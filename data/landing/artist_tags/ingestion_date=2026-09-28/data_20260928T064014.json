@@ -1,0 +1,6585 @@
+[
+  {
+    "artist_name": "25 hours",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 56,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 16,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "count": 16,
+            "name": "All",
+            "url": "https://www.last.fm/tag/All"
+          },
+          {
+            "count": 8,
+            "name": "Need to Rate",
+            "url": "https://www.last.fm/tag/Need+to+Rate"
+          },
+          {
+            "count": 2,
+            "name": "indie rock",
+            "url": "https://www.last.fm/tag/indie+rock"
+          },
+          {
+            "count": 2,
+            "name": "britpop",
+            "url": "https://www.last.fm/tag/britpop"
+          },
+          {
+            "count": 1,
+            "name": "pop rock",
+            "url": "https://www.last.fm/tag/pop+rock"
+          },
+          {
+            "count": 1,
+            "name": "male vocals",
+            "url": "https://www.last.fm/tag/male+vocals"
+          },
+          {
+            "count": 1,
+            "name": "male vocalists",
+            "url": "https://www.last.fm/tag/male+vocalists"
+          }
+        ],
+        "@attr": {
+          "artist": "25 hours"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "4EVE",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "disco polo",
+            "url": "https://www.last.fm/tag/disco+polo"
+          },
+          {
+            "count": 56,
+            "name": "polish",
+            "url": "https://www.last.fm/tag/polish"
+          },
+          {
+            "count": 37,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          },
+          {
+            "count": 17,
+            "name": "dance",
+            "url": "https://www.last.fm/tag/dance"
+          },
+          {
+            "count": 8,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 8,
+            "name": "girl group",
+            "url": "https://www.last.fm/tag/girl+group"
+          },
+          {
+            "count": 8,
+            "name": "eurodance",
+            "url": "https://www.last.fm/tag/eurodance"
+          },
+          {
+            "count": 3,
+            "name": "4ever",
+            "url": "https://www.last.fm/tag/4ever"
+          },
+          {
+            "count": 3,
+            "name": "Girls Group",
+            "url": "https://www.last.fm/tag/Girls+Group"
+          },
+          {
+            "count": 1,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          }
+        ],
+        "@attr": {
+          "artist": "4Ever"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "ASIA7",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "ASIA7"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "AYLA's",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 25,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "count": 16,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          }
+        ],
+        "@attr": {
+          "artist": "AYLA's"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Ab Normal",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 11,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 7,
+            "name": "pop rock",
+            "url": "https://www.last.fm/tag/pop+rock"
+          },
+          {
+            "count": 7,
+            "name": "alternative rock",
+            "url": "https://www.last.fm/tag/alternative+rock"
+          },
+          {
+            "count": 4,
+            "name": "ab normal",
+            "url": "https://www.last.fm/tag/ab+normal"
+          },
+          {
+            "count": 4,
+            "name": "male vocalists",
+            "url": "https://www.last.fm/tag/male+vocalists"
+          },
+          {
+            "count": 4,
+            "name": "Asian",
+            "url": "https://www.last.fm/tag/Asian"
+          }
+        ],
+        "@attr": {
+          "artist": "Ab Normal"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Adele",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 76,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 43,
+            "name": "british",
+            "url": "https://www.last.fm/tag/british"
+          },
+          {
+            "count": 32,
+            "name": "singer-songwriter",
+            "url": "https://www.last.fm/tag/singer-songwriter"
+          },
+          {
+            "count": 13,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 7,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 3,
+            "name": "jazz",
+            "url": "https://www.last.fm/tag/jazz"
+          },
+          {
+            "count": 1,
+            "name": "Adele",
+            "url": "https://www.last.fm/tag/Adele"
+          },
+          {
+            "count": 1,
+            "name": "female vocalist",
+            "url": "https://www.last.fm/tag/female+vocalist"
+          },
+          {
+            "count": 1,
+            "name": "UK",
+            "url": "https://www.last.fm/tag/UK"
+          }
+        ],
+        "@attr": {
+          "artist": "Adele"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Almondeptt",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "Almondeptt"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Amy Winehouse",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 80,
+            "name": "jazz",
+            "url": "https://www.last.fm/tag/jazz"
+          },
+          {
+            "count": 42,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 35,
+            "name": "british",
+            "url": "https://www.last.fm/tag/british"
+          },
+          {
+            "count": 11,
+            "name": "singer-songwriter",
+            "url": "https://www.last.fm/tag/singer-songwriter"
+          },
+          {
+            "count": 3,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 2,
+            "name": "blues",
+            "url": "https://www.last.fm/tag/blues"
+          },
+          {
+            "count": 1,
+            "name": "Amy Winehouse",
+            "url": "https://www.last.fm/tag/Amy+Winehouse"
+          },
+          {
+            "count": 1,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 1,
+            "name": "Neo-Soul",
+            "url": "https://www.last.fm/tag/Neo-Soul"
+          }
+        ],
+        "@attr": {
+          "artist": "Amy Winehouse"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Ariana Grande",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 52,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 29,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 9,
+            "name": "Ariana Grande",
+            "url": "https://www.last.fm/tag/Ariana+Grande"
+          },
+          {
+            "count": 4,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          },
+          {
+            "count": 4,
+            "name": "dance",
+            "url": "https://www.last.fm/tag/dance"
+          },
+          {
+            "count": 3,
+            "name": "r&b",
+            "url": "https://www.last.fm/tag/r&b"
+          },
+          {
+            "count": 1,
+            "name": "nickelodeon",
+            "url": "https://www.last.fm/tag/nickelodeon"
+          },
+          {
+            "count": 1,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 1,
+            "name": "dance-pop",
+            "url": "https://www.last.fm/tag/dance-pop"
+          }
+        ],
+        "@attr": {
+          "artist": "Ariana Grande"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "BADMIXY",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 100,
+            "name": "female vocals",
+            "url": "https://www.last.fm/tag/female+vocals"
+          },
+          {
+            "count": 66,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 66,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 33,
+            "name": "lgbtq",
+            "url": "https://www.last.fm/tag/lgbtq"
+          }
+        ],
+        "@attr": {
+          "artist": "BADMIXY"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "BANK SMITH",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "Bank Smith"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "BENZKHAOKHWAN",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "tpop",
+            "url": "https://www.last.fm/tag/tpop"
+          },
+          {
+            "count": 66,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          }
+        ],
+        "@attr": {
+          "artist": "Benzkhaokhwan"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "BILLKIN",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 100,
+            "name": "Soundtrack",
+            "url": "https://www.last.fm/tag/Soundtrack"
+          },
+          {
+            "count": 66,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 66,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 33,
+            "name": "billkin",
+            "url": "https://www.last.fm/tag/billkin"
+          },
+          {
+            "count": 33,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          }
+        ],
+        "@attr": {
+          "artist": "Billkin"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "BLVCKHEART",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 100,
+            "name": "Hip-Hop",
+            "url": "https://www.last.fm/tag/Hip-Hop"
+          },
+          {
+            "count": 66,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 66,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          }
+        ],
+        "@attr": {
+          "artist": "BlvckHeart"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "BOWKYLION",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 16,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 8,
+            "name": "Thai Indie",
+            "url": "https://www.last.fm/tag/Thai+Indie"
+          },
+          {
+            "count": 8,
+            "name": "thai indie pop",
+            "url": "https://www.last.fm/tag/thai+indie+pop"
+          },
+          {
+            "count": 8,
+            "name": "tpop",
+            "url": "https://www.last.fm/tag/tpop"
+          }
+        ],
+        "@attr": {
+          "artist": "bowkylion"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Bangkok scene",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "Bangkok scene"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Basher",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "Drum and bass",
+            "url": "https://www.last.fm/tag/Drum+and+bass"
+          },
+          {
+            "count": 64,
+            "name": "neurofunk",
+            "url": "https://www.last.fm/tag/neurofunk"
+          },
+          {
+            "count": 7,
+            "name": "dnb",
+            "url": "https://www.last.fm/tag/dnb"
+          },
+          {
+            "count": 1,
+            "name": "Drum n Bass",
+            "url": "https://www.last.fm/tag/Drum+n+Bass"
+          },
+          {
+            "count": 1,
+            "name": "techstep",
+            "url": "https://www.last.fm/tag/techstep"
+          },
+          {
+            "count": 1,
+            "name": "darkstep",
+            "url": "https://www.last.fm/tag/darkstep"
+          },
+          {
+            "count": 1,
+            "name": "british",
+            "url": "https://www.last.fm/tag/british"
+          },
+          {
+            "count": 1,
+            "name": "ram",
+            "url": "https://www.last.fm/tag/ram"
+          },
+          {
+            "count": 1,
+            "name": "drum & bass",
+            "url": "https://www.last.fm/tag/drum+&+bass"
+          },
+          {
+            "count": 1,
+            "name": "All",
+            "url": "https://www.last.fm/tag/All"
+          }
+        ],
+        "@attr": {
+          "artist": "Basher"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Be Peerapat",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "All",
+            "url": "https://www.last.fm/tag/All"
+          }
+        ],
+        "@attr": {
+          "artist": "Be Peerapat"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Bedroom Audio",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 100,
+            "name": "All",
+            "url": "https://www.last.fm/tag/All"
+          },
+          {
+            "count": 66,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          },
+          {
+            "count": 33,
+            "name": "hormones the series",
+            "url": "https://www.last.fm/tag/hormones+the+series"
+          }
+        ],
+        "@attr": {
+          "artist": "Bedroom Audio"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Big Ass",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 87,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 48,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 28,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          },
+          {
+            "count": 11,
+            "name": "alternative rock",
+            "url": "https://www.last.fm/tag/alternative+rock"
+          },
+          {
+            "count": 4,
+            "name": "pop rock",
+            "url": "https://www.last.fm/tag/pop+rock"
+          },
+          {
+            "count": 2,
+            "name": "asian rock",
+            "url": "https://www.last.fm/tag/asian+rock"
+          },
+          {
+            "count": 1,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 1,
+            "name": "big ass",
+            "url": "https://www.last.fm/tag/big+ass"
+          },
+          {
+            "count": 1,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          }
+        ],
+        "@attr": {
+          "artist": "Big Ass"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Bodyslam",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 49,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          },
+          {
+            "count": 30,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 15,
+            "name": "Asian",
+            "url": "https://www.last.fm/tag/Asian"
+          },
+          {
+            "count": 2,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 1,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 1,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 1,
+            "name": "bodyslam",
+            "url": "https://www.last.fm/tag/bodyslam"
+          },
+          {
+            "count": 1,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "count": 1,
+            "name": "asian music",
+            "url": "https://www.last.fm/tag/asian+music"
+          }
+        ],
+        "@attr": {
+          "artist": "Bodyslam"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Boy in love",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "Boy in Love"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Boyd Kosiyabong",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 44,
+            "name": "All",
+            "url": "https://www.last.fm/tag/All"
+          },
+          {
+            "count": 29,
+            "name": "Thai songwriter",
+            "url": "https://www.last.fm/tag/Thai+songwriter"
+          },
+          {
+            "count": 7,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 4,
+            "name": "Thai Indie",
+            "url": "https://www.last.fm/tag/Thai+Indie"
+          },
+          {
+            "count": 4,
+            "name": "Song Writer",
+            "url": "https://www.last.fm/tag/Song+Writer"
+          },
+          {
+            "count": 4,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 1,
+            "name": "Thai Podcast",
+            "url": "https://www.last.fm/tag/Thai+Podcast"
+          }
+        ],
+        "@attr": {
+          "artist": "Boyd Kosiyabong"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Bruno Mars",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 66,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 29,
+            "name": "male vocalists",
+            "url": "https://www.last.fm/tag/male+vocalists"
+          },
+          {
+            "count": 25,
+            "name": "r&b",
+            "url": "https://www.last.fm/tag/r&b"
+          },
+          {
+            "count": 7,
+            "name": "slow jams",
+            "url": "https://www.last.fm/tag/slow+jams"
+          },
+          {
+            "count": 5,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 3,
+            "name": "Bruno Mars",
+            "url": "https://www.last.fm/tag/Bruno+Mars"
+          },
+          {
+            "count": 1,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          },
+          {
+            "count": 1,
+            "name": "singer-songwriter",
+            "url": "https://www.last.fm/tag/singer-songwriter"
+          },
+          {
+            "count": 1,
+            "name": "reggae",
+            "url": "https://www.last.fm/tag/reggae"
+          }
+        ],
+        "@attr": {
+          "artist": "Bruno Mars"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Buachompoo Ford",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 100,
+            "name": "Ballad",
+            "url": "https://www.last.fm/tag/Ballad"
+          },
+          {
+            "count": 66,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          }
+        ],
+        "@attr": {
+          "artist": "Buachompoo Ford"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Buddha Bless",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 100,
+            "name": "dancehall",
+            "url": "https://www.last.fm/tag/dancehall"
+          }
+        ],
+        "@attr": {
+          "artist": "Buddha Bless"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "CDGuntee",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 25,
+            "name": "thai hip hop",
+            "url": "https://www.last.fm/tag/thai+hip+hop"
+          },
+          {
+            "count": 16,
+            "name": "Thai trap",
+            "url": "https://www.last.fm/tag/Thai+trap"
+          },
+          {
+            "count": 4,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          }
+        ],
+        "@attr": {
+          "artist": "CDGuntee"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "CELLS",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "laos",
+            "url": "https://www.last.fm/tag/laos"
+          },
+          {
+            "count": 56,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 17,
+            "name": "lao",
+            "url": "https://www.last.fm/tag/lao"
+          },
+          {
+            "count": 17,
+            "name": "metal",
+            "url": "https://www.last.fm/tag/metal"
+          },
+          {
+            "count": 8,
+            "name": "lao rock",
+            "url": "https://www.last.fm/tag/lao+rock"
+          },
+          {
+            "count": 2,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 2,
+            "name": "hard rock",
+            "url": "https://www.last.fm/tag/hard+rock"
+          },
+          {
+            "count": 1,
+            "name": "laotian",
+            "url": "https://www.last.fm/tag/laotian"
+          },
+          {
+            "count": 1,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "count": 1,
+            "name": "slovak",
+            "url": "https://www.last.fm/tag/slovak"
+          }
+        ],
+        "@attr": {
+          "artist": "Cells"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "CORNBOI",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 100,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          }
+        ],
+        "@attr": {
+          "artist": "CORNBOI"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Chaba_bie",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "Chaba_bie"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Cocktail",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 64,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 11,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 11,
+            "name": "alternative rock",
+            "url": "https://www.last.fm/tag/alternative+rock"
+          },
+          {
+            "count": 5,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          },
+          {
+            "count": 5,
+            "name": "All",
+            "url": "https://www.last.fm/tag/All"
+          },
+          {
+            "count": 1,
+            "name": "classic rock",
+            "url": "https://www.last.fm/tag/classic+rock"
+          },
+          {
+            "count": 1,
+            "name": "garage",
+            "url": "https://www.last.fm/tag/garage"
+          },
+          {
+            "count": 1,
+            "name": "indie rock",
+            "url": "https://www.last.fm/tag/indie+rock"
+          },
+          {
+            "count": 1,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          }
+        ],
+        "@attr": {
+          "artist": "Cocktail"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Crescendo",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "shoegaze",
+            "url": "https://www.last.fm/tag/shoegaze"
+          },
+          {
+            "count": 31,
+            "name": "dream pop",
+            "url": "https://www.last.fm/tag/dream+pop"
+          },
+          {
+            "count": 13,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 13,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 4,
+            "name": "dreampop",
+            "url": "https://www.last.fm/tag/dreampop"
+          },
+          {
+            "count": 2,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 2,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 1,
+            "name": "alternative metal",
+            "url": "https://www.last.fm/tag/alternative+metal"
+          },
+          {
+            "count": 1,
+            "name": "russian",
+            "url": "https://www.last.fm/tag/russian"
+          },
+          {
+            "count": 1,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          }
+        ],
+        "@attr": {
+          "artist": "Crescendo"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Da Endorphine",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 11,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 7,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 7,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 4,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          },
+          {
+            "count": 1,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 1,
+            "name": "pop rock",
+            "url": "https://www.last.fm/tag/pop+rock"
+          },
+          {
+            "count": 1,
+            "name": "tpop",
+            "url": "https://www.last.fm/tag/tpop"
+          },
+          {
+            "count": 1,
+            "name": "thai diva",
+            "url": "https://www.last.fm/tag/thai+diva"
+          },
+          {
+            "count": 1,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          }
+        ],
+        "@attr": {
+          "artist": "Da Endorphine"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Daniel Caesar",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 83,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 40,
+            "name": "Neo-Soul",
+            "url": "https://www.last.fm/tag/Neo-Soul"
+          },
+          {
+            "count": 9,
+            "name": "Canadian",
+            "url": "https://www.last.fm/tag/Canadian"
+          },
+          {
+            "count": 3,
+            "name": "alternative rnb",
+            "url": "https://www.last.fm/tag/alternative+rnb"
+          },
+          {
+            "count": 2,
+            "name": "gospel",
+            "url": "https://www.last.fm/tag/gospel"
+          },
+          {
+            "count": 2,
+            "name": "singer-songwriter",
+            "url": "https://www.last.fm/tag/singer-songwriter"
+          },
+          {
+            "count": 1,
+            "name": "Psychedelic Soul",
+            "url": "https://www.last.fm/tag/Psychedelic+Soul"
+          },
+          {
+            "count": 1,
+            "name": "bedroom pop",
+            "url": "https://www.last.fm/tag/bedroom+pop"
+          },
+          {
+            "count": 1,
+            "name": "canada",
+            "url": "https://www.last.fm/tag/canada"
+          }
+        ],
+        "@attr": {
+          "artist": "Daniel Caesar"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Danupol Kaewkarn",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          }
+        ],
+        "@attr": {
+          "artist": "Danupol Kaewkarn"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "David Maxim Micic",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "Progressive metal",
+            "url": "https://www.last.fm/tag/Progressive+metal"
+          },
+          {
+            "count": 85,
+            "name": "DJENT",
+            "url": "https://www.last.fm/tag/DJENT"
+          },
+          {
+            "count": 27,
+            "name": "experimental",
+            "url": "https://www.last.fm/tag/experimental"
+          },
+          {
+            "count": 24,
+            "name": "ambient",
+            "url": "https://www.last.fm/tag/ambient"
+          },
+          {
+            "count": 9,
+            "name": "Fusion",
+            "url": "https://www.last.fm/tag/Fusion"
+          },
+          {
+            "count": 6,
+            "name": "serbian",
+            "url": "https://www.last.fm/tag/serbian"
+          },
+          {
+            "count": 3,
+            "name": "Progressive",
+            "url": "https://www.last.fm/tag/Progressive"
+          },
+          {
+            "count": 1,
+            "name": "math metal",
+            "url": "https://www.last.fm/tag/math+metal"
+          },
+          {
+            "count": 1,
+            "name": "instrumental",
+            "url": "https://www.last.fm/tag/instrumental"
+          },
+          {
+            "count": 1,
+            "name": "Serbia",
+            "url": "https://www.last.fm/tag/Serbia"
+          }
+        ],
+        "@attr": {
+          "artist": "David Maxim Micic"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Dr.Fuu",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 100,
+            "name": "pop rock",
+            "url": "https://www.last.fm/tag/pop+rock"
+          },
+          {
+            "count": 66,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 66,
+            "name": "rs",
+            "url": "https://www.last.fm/tag/rs"
+          }
+        ],
+        "@attr": {
+          "artist": "Dr.Fuu"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "ETC.",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 100,
+            "name": "All",
+            "url": "https://www.last.fm/tag/All"
+          },
+          {
+            "count": 29,
+            "name": "Thai artist",
+            "url": "https://www.last.fm/tag/Thai+artist"
+          },
+          {
+            "count": 29,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 4,
+            "name": "world",
+            "url": "https://www.last.fm/tag/world"
+          },
+          {
+            "count": 4,
+            "name": "hardcore punk",
+            "url": "https://www.last.fm/tag/hardcore+punk"
+          },
+          {
+            "count": 4,
+            "name": "Hip-Hop",
+            "url": "https://www.last.fm/tag/Hip-Hop"
+          },
+          {
+            "count": 1,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 1,
+            "name": "Asian Pop",
+            "url": "https://www.last.fm/tag/Asian+Pop"
+          },
+          {
+            "count": 1,
+            "name": "singapore",
+            "url": "https://www.last.fm/tag/singapore"
+          }
+        ],
+        "@attr": {
+          "artist": "ETC."
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Earth Patravee",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 100,
+            "name": "indie pop",
+            "url": "https://www.last.fm/tag/indie+pop"
+          },
+          {
+            "count": 66,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          }
+        ],
+        "@attr": {
+          "artist": "Earth Patravee"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Ed Sheeran",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "acoustic",
+            "url": "https://www.last.fm/tag/acoustic"
+          },
+          {
+            "count": 77,
+            "name": "british",
+            "url": "https://www.last.fm/tag/british"
+          },
+          {
+            "count": 47,
+            "name": "singer-songwriter",
+            "url": "https://www.last.fm/tag/singer-songwriter"
+          },
+          {
+            "count": 18,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 8,
+            "name": "easy-listening",
+            "url": "https://www.last.fm/tag/easy-listening"
+          },
+          {
+            "count": 7,
+            "name": "Grime",
+            "url": "https://www.last.fm/tag/Grime"
+          },
+          {
+            "count": 6,
+            "name": "folk",
+            "url": "https://www.last.fm/tag/folk"
+          },
+          {
+            "count": 1,
+            "name": "male vocalists",
+            "url": "https://www.last.fm/tag/male+vocalists"
+          },
+          {
+            "count": 1,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 1,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          }
+        ],
+        "@attr": {
+          "artist": "Ed Sheeran"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Endorphine",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "visual kei",
+            "url": "https://www.last.fm/tag/visual+kei"
+          },
+          {
+            "count": 77,
+            "name": "japanese",
+            "url": "https://www.last.fm/tag/japanese"
+          },
+          {
+            "count": 51,
+            "name": "ambient",
+            "url": "https://www.last.fm/tag/ambient"
+          },
+          {
+            "count": 26,
+            "name": "J-rock",
+            "url": "https://www.last.fm/tag/J-rock"
+          },
+          {
+            "count": 8,
+            "name": "electronic",
+            "url": "https://www.last.fm/tag/electronic"
+          },
+          {
+            "count": 5,
+            "name": "chillout",
+            "url": "https://www.last.fm/tag/chillout"
+          },
+          {
+            "count": 5,
+            "name": "electro",
+            "url": "https://www.last.fm/tag/electro"
+          },
+          {
+            "count": 1,
+            "name": "polish",
+            "url": "https://www.last.fm/tag/polish"
+          },
+          {
+            "count": 1,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 1,
+            "name": "industrial",
+            "url": "https://www.last.fm/tag/industrial"
+          }
+        ],
+        "@attr": {
+          "artist": "ENDORPHINE"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "F.HERO",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "Hip-Hop",
+            "url": "https://www.last.fm/tag/Hip-Hop"
+          },
+          {
+            "count": 56,
+            "name": "rap",
+            "url": "https://www.last.fm/tag/rap"
+          },
+          {
+            "count": 37,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 16,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 8,
+            "name": "milli",
+            "url": "https://www.last.fm/tag/milli"
+          },
+          {
+            "count": 2,
+            "name": "metal",
+            "url": "https://www.last.fm/tag/metal"
+          },
+          {
+            "count": 2,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 1,
+            "name": "Alt Rap",
+            "url": "https://www.last.fm/tag/Alt+Rap"
+          },
+          {
+            "count": 1,
+            "name": "thai hip hop",
+            "url": "https://www.last.fm/tag/thai+hip+hop"
+          },
+          {
+            "count": 1,
+            "name": "thai hop hop",
+            "url": "https://www.last.fm/tag/thai+hop+hop"
+          }
+        ],
+        "@attr": {
+          "artist": "F.HERO"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "FREEHAND",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "Progressive rock",
+            "url": "https://www.last.fm/tag/Progressive+rock"
+          },
+          {
+            "count": 33,
+            "name": "melodic metal",
+            "url": "https://www.last.fm/tag/melodic+metal"
+          },
+          {
+            "count": 25,
+            "name": "Progressive",
+            "url": "https://www.last.fm/tag/Progressive"
+          },
+          {
+            "count": 16,
+            "name": "Power metal",
+            "url": "https://www.last.fm/tag/Power+metal"
+          },
+          {
+            "count": 16,
+            "name": "indie rock",
+            "url": "https://www.last.fm/tag/indie+rock"
+          },
+          {
+            "count": 8,
+            "name": "jungle",
+            "url": "https://www.last.fm/tag/jungle"
+          },
+          {
+            "count": 8,
+            "name": "USA",
+            "url": "https://www.last.fm/tag/USA"
+          },
+          {
+            "count": 3,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 3,
+            "name": "Fusion",
+            "url": "https://www.last.fm/tag/Fusion"
+          },
+          {
+            "count": 3,
+            "name": "Jazz Rock",
+            "url": "https://www.last.fm/tag/Jazz+Rock"
+          }
+        ],
+        "@attr": {
+          "artist": "Freehand"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Gracie Abrams",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 80,
+            "name": "indie pop",
+            "url": "https://www.last.fm/tag/indie+pop"
+          },
+          {
+            "count": 33,
+            "name": "my top songs",
+            "url": "https://www.last.fm/tag/my+top+songs"
+          },
+          {
+            "count": 27,
+            "name": "singer-songwriter",
+            "url": "https://www.last.fm/tag/singer-songwriter"
+          },
+          {
+            "count": 8,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 8,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 1,
+            "name": "folk",
+            "url": "https://www.last.fm/tag/folk"
+          },
+          {
+            "count": 1,
+            "name": "deezer",
+            "url": "https://www.last.fm/tag/deezer"
+          },
+          {
+            "count": 1,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          },
+          {
+            "count": 1,
+            "name": "USA",
+            "url": "https://www.last.fm/tag/USA"
+          }
+        ],
+        "@attr": {
+          "artist": "Gracie Abrams"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Groove Riders",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 64,
+            "name": "Thai Indie",
+            "url": "https://www.last.fm/tag/Thai+Indie"
+          },
+          {
+            "count": 24,
+            "name": "groove riders",
+            "url": "https://www.last.fm/tag/groove+riders"
+          },
+          {
+            "count": 11,
+            "name": "funk",
+            "url": "https://www.last.fm/tag/funk"
+          },
+          {
+            "count": 5,
+            "name": "Disco",
+            "url": "https://www.last.fm/tag/Disco"
+          },
+          {
+            "count": 1,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 1,
+            "name": "drum'n'bass",
+            "url": "https://www.last.fm/tag/drum%27n%27bass"
+          },
+          {
+            "count": 1,
+            "name": "11",
+            "url": "https://www.last.fm/tag/11"
+          },
+          {
+            "count": 1,
+            "name": "Mondiovision",
+            "url": "https://www.last.fm/tag/Mondiovision"
+          },
+          {
+            "count": 1,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          }
+        ],
+        "@attr": {
+          "artist": "Groove Riders"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "I..Nam",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "Asian",
+            "url": "https://www.last.fm/tag/Asian"
+          },
+          {
+            "count": 100,
+            "name": "asian music",
+            "url": "https://www.last.fm/tag/asian+music"
+          },
+          {
+            "count": 66,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 66,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 33,
+            "name": "asian rock",
+            "url": "https://www.last.fm/tag/asian+rock"
+          },
+          {
+            "count": 33,
+            "name": "Asian Pop",
+            "url": "https://www.last.fm/tag/Asian+Pop"
+          },
+          {
+            "count": 33,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          }
+        ],
+        "@attr": {
+          "artist": "I..Nam"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Ice Sarunyu",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 100,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          },
+          {
+            "count": 66,
+            "name": "thai-pop",
+            "url": "https://www.last.fm/tag/thai-pop"
+          }
+        ],
+        "@attr": {
+          "artist": "Ice Sarunyu"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Ink Waruntorn",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 29,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          },
+          {
+            "count": 7,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 4,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          }
+        ],
+        "@attr": {
+          "artist": "Ink Waruntorn"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Instinct",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "black metal",
+            "url": "https://www.last.fm/tag/black+metal"
+          },
+          {
+            "count": 88,
+            "name": "depressive black metal",
+            "url": "https://www.last.fm/tag/depressive+black+metal"
+          },
+          {
+            "count": 43,
+            "name": "hardcore",
+            "url": "https://www.last.fm/tag/hardcore"
+          },
+          {
+            "count": 22,
+            "name": "ambient",
+            "url": "https://www.last.fm/tag/ambient"
+          },
+          {
+            "count": 3,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 2,
+            "name": "UK Garage",
+            "url": "https://www.last.fm/tag/UK+Garage"
+          },
+          {
+            "count": 2,
+            "name": "electronic",
+            "url": "https://www.last.fm/tag/electronic"
+          },
+          {
+            "count": 1,
+            "name": "UK Black Metal",
+            "url": "https://www.last.fm/tag/UK+Black+Metal"
+          },
+          {
+            "count": 1,
+            "name": "british",
+            "url": "https://www.last.fm/tag/british"
+          },
+          {
+            "count": 1,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          }
+        ],
+        "@attr": {
+          "artist": "Instinct"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Intervals",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "Progressive metal",
+            "url": "https://www.last.fm/tag/Progressive+metal"
+          },
+          {
+            "count": 78,
+            "name": "DJENT",
+            "url": "https://www.last.fm/tag/DJENT"
+          },
+          {
+            "count": 32,
+            "name": "math metal",
+            "url": "https://www.last.fm/tag/math+metal"
+          },
+          {
+            "count": 29,
+            "name": "instrumental",
+            "url": "https://www.last.fm/tag/instrumental"
+          },
+          {
+            "count": 6,
+            "name": "Progressive",
+            "url": "https://www.last.fm/tag/Progressive"
+          },
+          {
+            "count": 4,
+            "name": "metal",
+            "url": "https://www.last.fm/tag/metal"
+          },
+          {
+            "count": 2,
+            "name": "Canadian",
+            "url": "https://www.last.fm/tag/Canadian"
+          },
+          {
+            "count": 1,
+            "name": "Technical Metal",
+            "url": "https://www.last.fm/tag/Technical+Metal"
+          },
+          {
+            "count": 1,
+            "name": "progressive math metal",
+            "url": "https://www.last.fm/tag/progressive+math+metal"
+          },
+          {
+            "count": 1,
+            "name": "metalcore",
+            "url": "https://www.last.fm/tag/metalcore"
+          }
+        ],
+        "@attr": {
+          "artist": "Intervals"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Jamie Cullum",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "jazz",
+            "url": "https://www.last.fm/tag/jazz"
+          },
+          {
+            "count": 50,
+            "name": "piano",
+            "url": "https://www.last.fm/tag/piano"
+          },
+          {
+            "count": 29,
+            "name": "british",
+            "url": "https://www.last.fm/tag/british"
+          },
+          {
+            "count": 28,
+            "name": "singer-songwriter",
+            "url": "https://www.last.fm/tag/singer-songwriter"
+          },
+          {
+            "count": 10,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 3,
+            "name": "male vocalists",
+            "url": "https://www.last.fm/tag/male+vocalists"
+          },
+          {
+            "count": 3,
+            "name": "vocal jazz",
+            "url": "https://www.last.fm/tag/vocal+jazz"
+          },
+          {
+            "count": 1,
+            "name": "swing",
+            "url": "https://www.last.fm/tag/swing"
+          },
+          {
+            "count": 1,
+            "name": "jamie cullum",
+            "url": "https://www.last.fm/tag/jamie+cullum"
+          },
+          {
+            "count": 1,
+            "name": "Smooth Jazz",
+            "url": "https://www.last.fm/tag/Smooth+Jazz"
+          }
+        ],
+        "@attr": {
+          "artist": "Jamie Cullum"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Jeff Satur",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 44,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 29,
+            "name": "singer-songwriter",
+            "url": "https://www.last.fm/tag/singer-songwriter"
+          },
+          {
+            "count": 29,
+            "name": "Ballad",
+            "url": "https://www.last.fm/tag/Ballad"
+          },
+          {
+            "count": 15,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 4,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 4,
+            "name": "singer",
+            "url": "https://www.last.fm/tag/singer"
+          },
+          {
+            "count": 1,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 1,
+            "name": "actor",
+            "url": "https://www.last.fm/tag/actor"
+          },
+          {
+            "count": 1,
+            "name": "indie soul",
+            "url": "https://www.last.fm/tag/indie+soul"
+          }
+        ],
+        "@attr": {
+          "artist": "Jeff Satur"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Jessie J",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 65,
+            "name": "british",
+            "url": "https://www.last.fm/tag/british"
+          },
+          {
+            "count": 40,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 32,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 11,
+            "name": "singer-songwriter",
+            "url": "https://www.last.fm/tag/singer-songwriter"
+          },
+          {
+            "count": 3,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 3,
+            "name": "dance",
+            "url": "https://www.last.fm/tag/dance"
+          },
+          {
+            "count": 1,
+            "name": "jessie j",
+            "url": "https://www.last.fm/tag/jessie+j"
+          },
+          {
+            "count": 1,
+            "name": "Hip-Hop",
+            "url": "https://www.last.fm/tag/Hip-Hop"
+          },
+          {
+            "count": 1,
+            "name": "r&b",
+            "url": "https://www.last.fm/tag/r&b"
+          }
+        ],
+        "@attr": {
+          "artist": "Jessie J"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Joey Boy",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 16,
+            "name": "Hip-Hop",
+            "url": "https://www.last.fm/tag/Hip-Hop"
+          },
+          {
+            "count": 11,
+            "name": "joey boy",
+            "url": "https://www.last.fm/tag/joey+boy"
+          },
+          {
+            "count": 3,
+            "name": "hiphop",
+            "url": "https://www.last.fm/tag/hiphop"
+          },
+          {
+            "count": 1,
+            "name": "bakery music",
+            "url": "https://www.last.fm/tag/bakery+music"
+          },
+          {
+            "count": 1,
+            "name": "thai-pop",
+            "url": "https://www.last.fm/tag/thai-pop"
+          },
+          {
+            "count": 1,
+            "name": "All",
+            "url": "https://www.last.fm/tag/All"
+          },
+          {
+            "count": 1,
+            "name": "the boy crew",
+            "url": "https://www.last.fm/tag/the+boy+crew"
+          }
+        ],
+        "@attr": {
+          "artist": "Joey Boy"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Justin Timberlake",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 67,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 32,
+            "name": "dance",
+            "url": "https://www.last.fm/tag/dance"
+          },
+          {
+            "count": 25,
+            "name": "male vocalists",
+            "url": "https://www.last.fm/tag/male+vocalists"
+          },
+          {
+            "count": 11,
+            "name": "Hip-Hop",
+            "url": "https://www.last.fm/tag/Hip-Hop"
+          },
+          {
+            "count": 4,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          },
+          {
+            "count": 3,
+            "name": "r&b",
+            "url": "https://www.last.fm/tag/r&b"
+          },
+          {
+            "count": 1,
+            "name": "Justin Timberlake",
+            "url": "https://www.last.fm/tag/Justin+Timberlake"
+          },
+          {
+            "count": 1,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 1,
+            "name": "hip hop",
+            "url": "https://www.last.fm/tag/hip+hop"
+          }
+        ],
+        "@attr": {
+          "artist": "Justin Timberlake"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "KALA",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "psytrance",
+            "url": "https://www.last.fm/tag/psytrance"
+          },
+          {
+            "count": 11,
+            "name": "psychedelic trance",
+            "url": "https://www.last.fm/tag/psychedelic+trance"
+          },
+          {
+            "count": 4,
+            "name": "psychedelic",
+            "url": "https://www.last.fm/tag/psychedelic"
+          },
+          {
+            "count": 4,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 2,
+            "name": "estonian",
+            "url": "https://www.last.fm/tag/estonian"
+          },
+          {
+            "count": 1,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 1,
+            "name": "Psychedelic Rock",
+            "url": "https://www.last.fm/tag/Psychedelic+Rock"
+          },
+          {
+            "count": 1,
+            "name": "forest",
+            "url": "https://www.last.fm/tag/forest"
+          },
+          {
+            "count": 1,
+            "name": "dark psytrance",
+            "url": "https://www.last.fm/tag/dark+psytrance"
+          },
+          {
+            "count": 1,
+            "name": "electronic",
+            "url": "https://www.last.fm/tag/electronic"
+          }
+        ],
+        "@attr": {
+          "artist": "Kala"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Kantong Tungngern",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          }
+        ],
+        "@attr": {
+          "artist": "Kantong Tungngern"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Katreeya English",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 66,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 16,
+            "name": "Asian",
+            "url": "https://www.last.fm/tag/Asian"
+          },
+          {
+            "count": 8,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          }
+        ],
+        "@attr": {
+          "artist": "Katreeya English"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Katy Perry",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 59,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 28,
+            "name": "pop rock",
+            "url": "https://www.last.fm/tag/pop+rock"
+          },
+          {
+            "count": 16,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 8,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 3,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          },
+          {
+            "count": 3,
+            "name": "dance",
+            "url": "https://www.last.fm/tag/dance"
+          },
+          {
+            "count": 1,
+            "name": "katy perry",
+            "url": "https://www.last.fm/tag/katy+perry"
+          },
+          {
+            "count": 1,
+            "name": "female vocalist",
+            "url": "https://www.last.fm/tag/female+vocalist"
+          },
+          {
+            "count": 1,
+            "name": "electropop",
+            "url": "https://www.last.fm/tag/electropop"
+          }
+        ],
+        "@attr": {
+          "artist": "Katy Perry"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Keane",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "britpop",
+            "url": "https://www.last.fm/tag/britpop"
+          },
+          {
+            "count": 86,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 49,
+            "name": "british",
+            "url": "https://www.last.fm/tag/british"
+          },
+          {
+            "count": 46,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "count": 21,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 7,
+            "name": "piano rock",
+            "url": "https://www.last.fm/tag/piano+rock"
+          },
+          {
+            "count": 5,
+            "name": "alternative rock",
+            "url": "https://www.last.fm/tag/alternative+rock"
+          },
+          {
+            "count": 1,
+            "name": "indie rock",
+            "url": "https://www.last.fm/tag/indie+rock"
+          },
+          {
+            "count": 1,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 1,
+            "name": "Keane",
+            "url": "https://www.last.fm/tag/Keane"
+          }
+        ],
+        "@attr": {
+          "artist": "Keane"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Keyshia Cole",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 69,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 38,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 26,
+            "name": "keyshia cole",
+            "url": "https://www.last.fm/tag/keyshia+cole"
+          },
+          {
+            "count": 12,
+            "name": "Hip-Hop",
+            "url": "https://www.last.fm/tag/Hip-Hop"
+          },
+          {
+            "count": 6,
+            "name": "r&b",
+            "url": "https://www.last.fm/tag/r&b"
+          },
+          {
+            "count": 3,
+            "name": "hip hop",
+            "url": "https://www.last.fm/tag/hip+hop"
+          },
+          {
+            "count": 1,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 1,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          },
+          {
+            "count": 1,
+            "name": "urban",
+            "url": "https://www.last.fm/tag/urban"
+          }
+        ],
+        "@attr": {
+          "artist": "Keyshia Cole"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "LANDOKMAI",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "dream pop",
+            "url": "https://www.last.fm/tag/dream+pop"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 17,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 17,
+            "name": "indie pop",
+            "url": "https://www.last.fm/tag/indie+pop"
+          },
+          {
+            "count": 8,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 8,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 8,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 3,
+            "name": "Thai Indie",
+            "url": "https://www.last.fm/tag/Thai+Indie"
+          }
+        ],
+        "@attr": {
+          "artist": "LANDOKMAI"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "LITTLE JOHN",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "reggae",
+            "url": "https://www.last.fm/tag/reggae"
+          },
+          {
+            "count": 73,
+            "name": "dancehall",
+            "url": "https://www.last.fm/tag/dancehall"
+          },
+          {
+            "count": 22,
+            "name": "ragga",
+            "url": "https://www.last.fm/tag/ragga"
+          },
+          {
+            "count": 16,
+            "name": "jamaican",
+            "url": "https://www.last.fm/tag/jamaican"
+          },
+          {
+            "count": 6,
+            "name": "jamaica",
+            "url": "https://www.last.fm/tag/jamaica"
+          },
+          {
+            "count": 4,
+            "name": "All",
+            "url": "https://www.last.fm/tag/All"
+          },
+          {
+            "count": 2,
+            "name": "dancehall reggae",
+            "url": "https://www.last.fm/tag/dancehall+reggae"
+          },
+          {
+            "count": 1,
+            "name": "top 100 reggae artists",
+            "url": "https://www.last.fm/tag/top+100+reggae+artists"
+          },
+          {
+            "count": 1,
+            "name": "cool",
+            "url": "https://www.last.fm/tag/cool"
+          },
+          {
+            "count": 1,
+            "name": "rocksteady",
+            "url": "https://www.last.fm/tag/rocksteady"
+          }
+        ],
+        "@attr": {
+          "artist": "Little John"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Lake Street Dive",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 88,
+            "name": "jazz",
+            "url": "https://www.last.fm/tag/jazz"
+          },
+          {
+            "count": 22,
+            "name": "swing",
+            "url": "https://www.last.fm/tag/swing"
+          },
+          {
+            "count": 13,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 5,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 2,
+            "name": "indie pop",
+            "url": "https://www.last.fm/tag/indie+pop"
+          },
+          {
+            "count": 1,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 1,
+            "name": "boston",
+            "url": "https://www.last.fm/tag/boston"
+          },
+          {
+            "count": 1,
+            "name": "folk",
+            "url": "https://www.last.fm/tag/folk"
+          },
+          {
+            "count": 1,
+            "name": "USA",
+            "url": "https://www.last.fm/tag/USA"
+          }
+        ],
+        "@attr": {
+          "artist": "Lake Street Dive"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "LeAnn Rimes",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "country",
+            "url": "https://www.last.fm/tag/country"
+          },
+          {
+            "count": 76,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 42,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 22,
+            "name": "singer-songwriter",
+            "url": "https://www.last.fm/tag/singer-songwriter"
+          },
+          {
+            "count": 5,
+            "name": "female",
+            "url": "https://www.last.fm/tag/female"
+          },
+          {
+            "count": 4,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          },
+          {
+            "count": 3,
+            "name": "LeAnn Rimes",
+            "url": "https://www.last.fm/tag/LeAnn+Rimes"
+          },
+          {
+            "count": 1,
+            "name": "country pop",
+            "url": "https://www.last.fm/tag/country+pop"
+          },
+          {
+            "count": 1,
+            "name": "90s",
+            "url": "https://www.last.fm/tag/90s"
+          },
+          {
+            "count": 1,
+            "name": "alternative rock",
+            "url": "https://www.last.fm/tag/alternative+rock"
+          }
+        ],
+        "@attr": {
+          "artist": "LeAnn Rimes"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Linkin Park",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "Nu Metal",
+            "url": "https://www.last.fm/tag/Nu+Metal"
+          },
+          {
+            "count": 89,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 55,
+            "name": "alternative rock",
+            "url": "https://www.last.fm/tag/alternative+rock"
+          },
+          {
+            "count": 45,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "count": 12,
+            "name": "metal",
+            "url": "https://www.last.fm/tag/metal"
+          },
+          {
+            "count": 5,
+            "name": "rapcore",
+            "url": "https://www.last.fm/tag/rapcore"
+          },
+          {
+            "count": 3,
+            "name": "alternative metal",
+            "url": "https://www.last.fm/tag/alternative+metal"
+          },
+          {
+            "count": 1,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          },
+          {
+            "count": 1,
+            "name": "Linkin Park",
+            "url": "https://www.last.fm/tag/Linkin+Park"
+          },
+          {
+            "count": 1,
+            "name": "Nu-metal",
+            "url": "https://www.last.fm/tag/Nu-metal"
+          }
+        ],
+        "@attr": {
+          "artist": "Linkin Park"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Lipta",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 66,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 29,
+            "name": "asian music",
+            "url": "https://www.last.fm/tag/asian+music"
+          },
+          {
+            "count": 15,
+            "name": "Asian Pop",
+            "url": "https://www.last.fm/tag/Asian+Pop"
+          },
+          {
+            "count": 15,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 4,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 1,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 1,
+            "name": "r&b",
+            "url": "https://www.last.fm/tag/r&b"
+          },
+          {
+            "count": 1,
+            "name": "duo",
+            "url": "https://www.last.fm/tag/duo"
+          }
+        ],
+        "@attr": {
+          "artist": "Lipta"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Lookpad Chonlanan",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "Lookpad Chonlanan"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Lower Mansion",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 100,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          }
+        ],
+        "@attr": {
+          "artist": "Lower Mansion"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Mariam B5",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "Mariam B5"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Mark Ronson",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "funk",
+            "url": "https://www.last.fm/tag/funk"
+          },
+          {
+            "count": 80,
+            "name": "british",
+            "url": "https://www.last.fm/tag/british"
+          },
+          {
+            "count": 53,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 38,
+            "name": "Hip-Hop",
+            "url": "https://www.last.fm/tag/Hip-Hop"
+          },
+          {
+            "count": 13,
+            "name": "dj",
+            "url": "https://www.last.fm/tag/dj"
+          },
+          {
+            "count": 6,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 4,
+            "name": "electronic",
+            "url": "https://www.last.fm/tag/electronic"
+          },
+          {
+            "count": 1,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "count": 1,
+            "name": "jazz",
+            "url": "https://www.last.fm/tag/jazz"
+          },
+          {
+            "count": 1,
+            "name": "hip hop",
+            "url": "https://www.last.fm/tag/hip+hop"
+          }
+        ],
+        "@attr": {
+          "artist": "Mark Ronson"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Maroon 5",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop rock",
+            "url": "https://www.last.fm/tag/pop+rock"
+          },
+          {
+            "count": 88,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 55,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 41,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "count": 18,
+            "name": "alternative rock",
+            "url": "https://www.last.fm/tag/alternative+rock"
+          },
+          {
+            "count": 4,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          },
+          {
+            "count": 3,
+            "name": "male vocalists",
+            "url": "https://www.last.fm/tag/male+vocalists"
+          },
+          {
+            "count": 1,
+            "name": "maroon 5",
+            "url": "https://www.last.fm/tag/maroon+5"
+          },
+          {
+            "count": 1,
+            "name": "funk",
+            "url": "https://www.last.fm/tag/funk"
+          },
+          {
+            "count": 1,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          }
+        ],
+        "@attr": {
+          "artist": "Maroon 5"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Michael Jackson",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 48,
+            "name": "80s",
+            "url": "https://www.last.fm/tag/80s"
+          },
+          {
+            "count": 28,
+            "name": "dance",
+            "url": "https://www.last.fm/tag/dance"
+          },
+          {
+            "count": 27,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 12,
+            "name": "funk",
+            "url": "https://www.last.fm/tag/funk"
+          },
+          {
+            "count": 5,
+            "name": "king of pop",
+            "url": "https://www.last.fm/tag/king+of+pop"
+          },
+          {
+            "count": 3,
+            "name": "legend",
+            "url": "https://www.last.fm/tag/legend"
+          },
+          {
+            "count": 1,
+            "name": "michael jackson",
+            "url": "https://www.last.fm/tag/michael+jackson"
+          },
+          {
+            "count": 1,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          },
+          {
+            "count": 1,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          }
+        ],
+        "@attr": {
+          "artist": "Michael Jackson"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Mild",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 44,
+            "name": "Thai Indie",
+            "url": "https://www.last.fm/tag/Thai+Indie"
+          },
+          {
+            "count": 7,
+            "name": "House",
+            "url": "https://www.last.fm/tag/House"
+          },
+          {
+            "count": 7,
+            "name": "electronic",
+            "url": "https://www.last.fm/tag/electronic"
+          },
+          {
+            "count": 4,
+            "name": "indie pop",
+            "url": "https://www.last.fm/tag/indie+pop"
+          },
+          {
+            "count": 4,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          },
+          {
+            "count": 4,
+            "name": "irish",
+            "url": "https://www.last.fm/tag/irish"
+          }
+        ],
+        "@attr": {
+          "artist": "Mild"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Mirrr",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 25,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 16,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 16,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 8,
+            "name": "Thai Indie",
+            "url": "https://www.last.fm/tag/Thai+Indie"
+          },
+          {
+            "count": 8,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 8,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          }
+        ],
+        "@attr": {
+          "artist": "Mirrr"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Musketeers",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "spotify",
+            "url": "https://www.last.fm/tag/spotify"
+          },
+          {
+            "count": 66,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 33,
+            "name": "psychotronic",
+            "url": "https://www.last.fm/tag/psychotronic"
+          }
+        ],
+        "@attr": {
+          "artist": "Musketeers"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "NONT TANONT",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          }
+        ],
+        "@attr": {
+          "artist": "Nont Tanont"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "New & Jiew",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 25,
+            "name": "Asian",
+            "url": "https://www.last.fm/tag/Asian"
+          },
+          {
+            "count": 16,
+            "name": "Asian Pop",
+            "url": "https://www.last.fm/tag/Asian+Pop"
+          },
+          {
+            "count": 16,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 8,
+            "name": "tpop",
+            "url": "https://www.last.fm/tag/tpop"
+          },
+          {
+            "count": 8,
+            "name": "10s",
+            "url": "https://www.last.fm/tag/10s"
+          },
+          {
+            "count": 8,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          },
+          {
+            "count": 2,
+            "name": "best of 2017",
+            "url": "https://www.last.fm/tag/best+of+2017"
+          },
+          {
+            "count": 2,
+            "name": "2010s",
+            "url": "https://www.last.fm/tag/2010s"
+          },
+          {
+            "count": 2,
+            "name": "2010s pop",
+            "url": "https://www.last.fm/tag/2010s+pop"
+          }
+        ],
+        "@attr": {
+          "artist": "New & Jiew"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Nicki Minaj",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "Hip-Hop",
+            "url": "https://www.last.fm/tag/Hip-Hop"
+          },
+          {
+            "count": 88,
+            "name": "rap",
+            "url": "https://www.last.fm/tag/rap"
+          },
+          {
+            "count": 34,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 31,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 15,
+            "name": "hip hop",
+            "url": "https://www.last.fm/tag/hip+hop"
+          },
+          {
+            "count": 10,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 6,
+            "name": "sexy",
+            "url": "https://www.last.fm/tag/sexy"
+          },
+          {
+            "count": 1,
+            "name": "nicki minaj",
+            "url": "https://www.last.fm/tag/nicki+minaj"
+          },
+          {
+            "count": 1,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          },
+          {
+            "count": 1,
+            "name": "dance",
+            "url": "https://www.last.fm/tag/dance"
+          }
+        ],
+        "@attr": {
+          "artist": "Nicki Minaj"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "No One Else",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "street punk",
+            "url": "https://www.last.fm/tag/street+punk"
+          },
+          {
+            "count": 54,
+            "name": "punk rock",
+            "url": "https://www.last.fm/tag/punk+rock"
+          },
+          {
+            "count": 34,
+            "name": "punk",
+            "url": "https://www.last.fm/tag/punk"
+          },
+          {
+            "count": 23,
+            "name": "russian",
+            "url": "https://www.last.fm/tag/russian"
+          },
+          {
+            "count": 9,
+            "name": "streetpunk",
+            "url": "https://www.last.fm/tag/streetpunk"
+          },
+          {
+            "count": 1,
+            "name": "antifa",
+            "url": "https://www.last.fm/tag/antifa"
+          },
+          {
+            "count": 1,
+            "name": "hardcore",
+            "url": "https://www.last.fm/tag/hardcore"
+          },
+          {
+            "count": 1,
+            "name": "hatecore",
+            "url": "https://www.last.fm/tag/hatecore"
+          },
+          {
+            "count": 1,
+            "name": "Russia",
+            "url": "https://www.last.fm/tag/Russia"
+          },
+          {
+            "count": 1,
+            "name": "All",
+            "url": "https://www.last.fm/tag/All"
+          }
+        ],
+        "@attr": {
+          "artist": "No One Else"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Oat Pramote",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 25,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 16,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 16,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 8,
+            "name": "daddy",
+            "url": "https://www.last.fm/tag/daddy"
+          },
+          {
+            "count": 8,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          }
+        ],
+        "@attr": {
+          "artist": "Oat Pramote"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Olivia Dean",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 74,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 29,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 15,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 5,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 3,
+            "name": "pop soul",
+            "url": "https://www.last.fm/tag/pop+soul"
+          },
+          {
+            "count": 3,
+            "name": "british",
+            "url": "https://www.last.fm/tag/british"
+          },
+          {
+            "count": 1,
+            "name": "want to see live",
+            "url": "https://www.last.fm/tag/want+to+see+live"
+          },
+          {
+            "count": 1,
+            "name": "alternative rnb",
+            "url": "https://www.last.fm/tag/alternative+rnb"
+          },
+          {
+            "count": 1,
+            "name": "mother earth",
+            "url": "https://www.last.fm/tag/mother+earth"
+          }
+        ],
+        "@attr": {
+          "artist": "Olivia Dean"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Only Monday",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 25,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 17,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          }
+        ],
+        "@attr": {
+          "artist": "Only Monday"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "PENGUIN VILLA",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 66,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "Smallroom",
+            "url": "https://www.last.fm/tag/Smallroom"
+          }
+        ],
+        "@attr": {
+          "artist": "Penguin Villa"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "PROXIE",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 16,
+            "name": "boybands",
+            "url": "https://www.last.fm/tag/boybands"
+          },
+          {
+            "count": 8,
+            "name": "victor da may",
+            "url": "https://www.last.fm/tag/victor+da+may"
+          },
+          {
+            "count": 8,
+            "name": "Drum n Bass",
+            "url": "https://www.last.fm/tag/Drum+n+Bass"
+          },
+          {
+            "count": 8,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          },
+          {
+            "count": 2,
+            "name": "thai boyband",
+            "url": "https://www.last.fm/tag/thai+boyband"
+          }
+        ],
+        "@attr": {
+          "artist": "proxie"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "PSY",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "k-pop",
+            "url": "https://www.last.fm/tag/k-pop"
+          },
+          {
+            "count": 79,
+            "name": "Korean",
+            "url": "https://www.last.fm/tag/Korean"
+          },
+          {
+            "count": 44,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 34,
+            "name": "Hip-Hop",
+            "url": "https://www.last.fm/tag/Hip-Hop"
+          },
+          {
+            "count": 8,
+            "name": "psy",
+            "url": "https://www.last.fm/tag/psy"
+          },
+          {
+            "count": 6,
+            "name": "dance",
+            "url": "https://www.last.fm/tag/dance"
+          },
+          {
+            "count": 5,
+            "name": "male vocalists",
+            "url": "https://www.last.fm/tag/male+vocalists"
+          },
+          {
+            "count": 1,
+            "name": "electronic",
+            "url": "https://www.last.fm/tag/electronic"
+          },
+          {
+            "count": 1,
+            "name": "Kpop",
+            "url": "https://www.last.fm/tag/Kpop"
+          },
+          {
+            "count": 1,
+            "name": "rap",
+            "url": "https://www.last.fm/tag/rap"
+          }
+        ],
+        "@attr": {
+          "artist": "Psy"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "PURENESSLY",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "Purenessly"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "PURPEECH",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "Thai Indie",
+            "url": "https://www.last.fm/tag/Thai+Indie"
+          },
+          {
+            "count": 66,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          }
+        ],
+        "@attr": {
+          "artist": "PURPEECH"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Pang Nakarin",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 100,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 66,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 66,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          }
+        ],
+        "@attr": {
+          "artist": "Pang Nakarin"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Periphery",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "Progressive metal",
+            "url": "https://www.last.fm/tag/Progressive+metal"
+          },
+          {
+            "count": 82,
+            "name": "DJENT",
+            "url": "https://www.last.fm/tag/DJENT"
+          },
+          {
+            "count": 41,
+            "name": "math metal",
+            "url": "https://www.last.fm/tag/math+metal"
+          },
+          {
+            "count": 25,
+            "name": "mathcore",
+            "url": "https://www.last.fm/tag/mathcore"
+          },
+          {
+            "count": 10,
+            "name": "Technical Metal",
+            "url": "https://www.last.fm/tag/Technical+Metal"
+          },
+          {
+            "count": 3,
+            "name": "metal",
+            "url": "https://www.last.fm/tag/metal"
+          },
+          {
+            "count": 3,
+            "name": "metalcore",
+            "url": "https://www.last.fm/tag/metalcore"
+          },
+          {
+            "count": 1,
+            "name": "experimental",
+            "url": "https://www.last.fm/tag/experimental"
+          },
+          {
+            "count": 1,
+            "name": "Progressive",
+            "url": "https://www.last.fm/tag/Progressive"
+          },
+          {
+            "count": 1,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          }
+        ],
+        "@attr": {
+          "artist": "Periphery"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "PiXXiE",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          },
+          {
+            "count": 56,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 37,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 4,
+            "name": "female vocalist",
+            "url": "https://www.last.fm/tag/female+vocalist"
+          },
+          {
+            "count": 2,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 2,
+            "name": "Girl Groups",
+            "url": "https://www.last.fm/tag/Girl+Groups"
+          },
+          {
+            "count": 2,
+            "name": "girl group",
+            "url": "https://www.last.fm/tag/girl+group"
+          },
+          {
+            "count": 1,
+            "name": "tpop",
+            "url": "https://www.last.fm/tag/tpop"
+          },
+          {
+            "count": 1,
+            "name": "thai-pop",
+            "url": "https://www.last.fm/tag/thai-pop"
+          },
+          {
+            "count": 1,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          }
+        ],
+        "@attr": {
+          "artist": "Pixxie"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Pimma PiXXiE",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "tpop",
+            "url": "https://www.last.fm/tag/tpop"
+          },
+          {
+            "count": 66,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          }
+        ],
+        "@attr": {
+          "artist": "Pimma PiXXiE"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Plini",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "Progressive metal",
+            "url": "https://www.last.fm/tag/Progressive+metal"
+          },
+          {
+            "count": 80,
+            "name": "instrumental",
+            "url": "https://www.last.fm/tag/instrumental"
+          },
+          {
+            "count": 49,
+            "name": "Progressive rock",
+            "url": "https://www.last.fm/tag/Progressive+rock"
+          },
+          {
+            "count": 23,
+            "name": "Fusion",
+            "url": "https://www.last.fm/tag/Fusion"
+          },
+          {
+            "count": 8,
+            "name": "jazz",
+            "url": "https://www.last.fm/tag/jazz"
+          },
+          {
+            "count": 6,
+            "name": "jazz fusion",
+            "url": "https://www.last.fm/tag/jazz+fusion"
+          },
+          {
+            "count": 4,
+            "name": "australian",
+            "url": "https://www.last.fm/tag/australian"
+          },
+          {
+            "count": 1,
+            "name": "DJENT",
+            "url": "https://www.last.fm/tag/DJENT"
+          },
+          {
+            "count": 1,
+            "name": "australia",
+            "url": "https://www.last.fm/tag/australia"
+          },
+          {
+            "count": 1,
+            "name": "Progressive",
+            "url": "https://www.last.fm/tag/Progressive"
+          }
+        ],
+        "@attr": {
+          "artist": "Plini"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Ploychompoo",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "tpop",
+            "url": "https://www.last.fm/tag/tpop"
+          },
+          {
+            "count": 11,
+            "name": "german",
+            "url": "https://www.last.fm/tag/german"
+          },
+          {
+            "count": 7,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 7,
+            "name": "2000",
+            "url": "https://www.last.fm/tag/2000"
+          }
+        ],
+        "@attr": {
+          "artist": "Ploychompoo"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Polycat",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "electronic beat",
+            "url": "https://www.last.fm/tag/electronic+beat"
+          },
+          {
+            "count": 100,
+            "name": "deep and dark",
+            "url": "https://www.last.fm/tag/deep+and+dark"
+          },
+          {
+            "count": 66,
+            "name": "alternative popDeep",
+            "url": "https://www.last.fm/tag/alternative+popDeep"
+          },
+          {
+            "count": 66,
+            "name": "find beats",
+            "url": "https://www.last.fm/tag/find+beats"
+          },
+          {
+            "count": 21,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 12,
+            "name": "Enlightened",
+            "url": "https://www.last.fm/tag/Enlightened"
+          },
+          {
+            "count": 12,
+            "name": "synthpop",
+            "url": "https://www.last.fm/tag/synthpop"
+          },
+          {
+            "count": 2,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 2,
+            "name": "lesser known yet streamable artists",
+            "url": "https://www.last.fm/tag/lesser+known+yet+streamable+artists"
+          },
+          {
+            "count": 2,
+            "name": "Cross Over",
+            "url": "https://www.last.fm/tag/Cross+Over"
+          }
+        ],
+        "@attr": {
+          "artist": "PolyCat"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Pop Pongkool",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 66,
+            "name": "where the bears are",
+            "url": "https://www.last.fm/tag/where+the+bears+are"
+          }
+        ],
+        "@attr": {
+          "artist": "Pop Pongkool"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Potato",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 26,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 12,
+            "name": "reggae",
+            "url": "https://www.last.fm/tag/reggae"
+          },
+          {
+            "count": 12,
+            "name": "ska",
+            "url": "https://www.last.fm/tag/ska"
+          },
+          {
+            "count": 6,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "count": 6,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          },
+          {
+            "count": 1,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 1,
+            "name": "spanish reggae",
+            "url": "https://www.last.fm/tag/spanish+reggae"
+          },
+          {
+            "count": 1,
+            "name": "potato",
+            "url": "https://www.last.fm/tag/potato"
+          },
+          {
+            "count": 1,
+            "name": "punk spain",
+            "url": "https://www.last.fm/tag/punk+spain"
+          }
+        ],
+        "@attr": {
+          "artist": "Potato"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Praesun",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          }
+        ],
+        "@attr": {
+          "artist": "Praesun"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Saran",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "dance",
+            "url": "https://www.last.fm/tag/dance"
+          },
+          {
+            "count": 56,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 26,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 9,
+            "name": "dutch",
+            "url": "https://www.last.fm/tag/dutch"
+          },
+          {
+            "count": 5,
+            "name": "eurobeat",
+            "url": "https://www.last.fm/tag/eurobeat"
+          },
+          {
+            "count": 2,
+            "name": "danish",
+            "url": "https://www.last.fm/tag/danish"
+          },
+          {
+            "count": 2,
+            "name": "Disco",
+            "url": "https://www.last.fm/tag/Disco"
+          },
+          {
+            "count": 1,
+            "name": "All",
+            "url": "https://www.last.fm/tag/All"
+          },
+          {
+            "count": 1,
+            "name": "italian pop",
+            "url": "https://www.last.fm/tag/italian+pop"
+          },
+          {
+            "count": 1,
+            "name": "sexy",
+            "url": "https://www.last.fm/tag/sexy"
+          }
+        ],
+        "@attr": {
+          "artist": "Sarah"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Season Five",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "cold wave",
+            "url": "https://www.last.fm/tag/cold+wave"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "coldwave",
+            "url": "https://www.last.fm/tag/coldwave"
+          },
+          {
+            "count": 66,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 33,
+            "name": "french cold wave",
+            "url": "https://www.last.fm/tag/french+cold+wave"
+          }
+        ],
+        "@attr": {
+          "artist": "Season Five"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Season five",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "cold wave",
+            "url": "https://www.last.fm/tag/cold+wave"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "coldwave",
+            "url": "https://www.last.fm/tag/coldwave"
+          },
+          {
+            "count": 66,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 33,
+            "name": "french cold wave",
+            "url": "https://www.last.fm/tag/french+cold+wave"
+          }
+        ],
+        "@attr": {
+          "artist": "Season Five"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Senorita",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "Senorita"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Silly Fools",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 69,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 41,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "count": 41,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          },
+          {
+            "count": 7,
+            "name": "alternative rock",
+            "url": "https://www.last.fm/tag/alternative+rock"
+          },
+          {
+            "count": 3,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 3,
+            "name": "alt. rock",
+            "url": "https://www.last.fm/tag/alt.+rock"
+          },
+          {
+            "count": 1,
+            "name": "modern rock",
+            "url": "https://www.last.fm/tag/modern+rock"
+          },
+          {
+            "count": 1,
+            "name": "All",
+            "url": "https://www.last.fm/tag/All"
+          },
+          {
+            "count": 1,
+            "name": "post-grunge",
+            "url": "https://www.last.fm/tag/post-grunge"
+          }
+        ],
+        "@attr": {
+          "artist": "Silly Fools"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "So Cool",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 100,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          },
+          {
+            "count": 17,
+            "name": "pop rock",
+            "url": "https://www.last.fm/tag/pop+rock"
+          },
+          {
+            "count": 17,
+            "name": "death metal",
+            "url": "https://www.last.fm/tag/death+metal"
+          },
+          {
+            "count": 8,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 8,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 8,
+            "name": "like the second trivium",
+            "url": "https://www.last.fm/tag/like+the+second+trivium"
+          }
+        ],
+        "@attr": {
+          "artist": "So Cool"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "THE TOYS",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "60s",
+            "url": "https://www.last.fm/tag/60s"
+          },
+          {
+            "count": 42,
+            "name": "girl group",
+            "url": "https://www.last.fm/tag/girl+group"
+          },
+          {
+            "count": 22,
+            "name": "oldies",
+            "url": "https://www.last.fm/tag/oldies"
+          },
+          {
+            "count": 16,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 11,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 6,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 6,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 1,
+            "name": "Girl Groups",
+            "url": "https://www.last.fm/tag/Girl+Groups"
+          },
+          {
+            "count": 1,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 1,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          }
+        ],
+        "@attr": {
+          "artist": "The Toys"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "TaitosmitH",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 100,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 16,
+            "name": "hard rock",
+            "url": "https://www.last.fm/tag/hard+rock"
+          },
+          {
+            "count": 16,
+            "name": "folk rock",
+            "url": "https://www.last.fm/tag/folk+rock"
+          }
+        ],
+        "@attr": {
+          "artist": "TaitosmitH"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Tate McRae",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 57,
+            "name": "my top songs",
+            "url": "https://www.last.fm/tag/my+top+songs"
+          },
+          {
+            "count": 32,
+            "name": "Canadian",
+            "url": "https://www.last.fm/tag/Canadian"
+          },
+          {
+            "count": 14,
+            "name": "electropop",
+            "url": "https://www.last.fm/tag/electropop"
+          },
+          {
+            "count": 4,
+            "name": "canada",
+            "url": "https://www.last.fm/tag/canada"
+          },
+          {
+            "count": 2,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 1,
+            "name": "singer-songwriter",
+            "url": "https://www.last.fm/tag/singer-songwriter"
+          },
+          {
+            "count": 1,
+            "name": "rutracker",
+            "url": "https://www.last.fm/tag/rutracker"
+          },
+          {
+            "count": 1,
+            "name": "dancer",
+            "url": "https://www.last.fm/tag/dancer"
+          },
+          {
+            "count": 1,
+            "name": "electronic",
+            "url": "https://www.last.fm/tag/electronic"
+          }
+        ],
+        "@attr": {
+          "artist": "Tate McRae"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Tattoo Colour",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 25,
+            "name": "pop rock",
+            "url": "https://www.last.fm/tag/pop+rock"
+          },
+          {
+            "count": 17,
+            "name": "Thai Indie",
+            "url": "https://www.last.fm/tag/Thai+Indie"
+          },
+          {
+            "count": 17,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          },
+          {
+            "count": 4,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 4,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 4,
+            "name": "male vocalists",
+            "url": "https://www.last.fm/tag/male+vocalists"
+          },
+          {
+            "count": 1,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 1,
+            "name": "indie rock",
+            "url": "https://www.last.fm/tag/indie+rock"
+          },
+          {
+            "count": 1,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          }
+        ],
+        "@attr": {
+          "artist": "Tattoo Colour"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Taylor Swift",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "country",
+            "url": "https://www.last.fm/tag/country"
+          },
+          {
+            "count": 86,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 42,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 30,
+            "name": "singer-songwriter",
+            "url": "https://www.last.fm/tag/singer-songwriter"
+          },
+          {
+            "count": 11,
+            "name": "acoustic",
+            "url": "https://www.last.fm/tag/acoustic"
+          },
+          {
+            "count": 4,
+            "name": "country pop",
+            "url": "https://www.last.fm/tag/country+pop"
+          },
+          {
+            "count": 4,
+            "name": "taylor swift",
+            "url": "https://www.last.fm/tag/taylor+swift"
+          },
+          {
+            "count": 1,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          },
+          {
+            "count": 1,
+            "name": "snake",
+            "url": "https://www.last.fm/tag/snake"
+          },
+          {
+            "count": 1,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          }
+        ],
+        "@attr": {
+          "artist": "Taylor Swift"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Tea For Three",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 17,
+            "name": "twee",
+            "url": "https://www.last.fm/tag/twee"
+          },
+          {
+            "count": 17,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 8,
+            "name": "thai-pop",
+            "url": "https://www.last.fm/tag/thai-pop"
+          },
+          {
+            "count": 8,
+            "name": "All",
+            "url": "https://www.last.fm/tag/All"
+          }
+        ],
+        "@attr": {
+          "artist": "Tea For Three"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Tem Wuttisit",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "Tem Wuttisit"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Thank You Scientist",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "Progressive rock",
+            "url": "https://www.last.fm/tag/Progressive+rock"
+          },
+          {
+            "count": 33,
+            "name": "jazz fusion",
+            "url": "https://www.last.fm/tag/jazz+fusion"
+          },
+          {
+            "count": 18,
+            "name": "jazz",
+            "url": "https://www.last.fm/tag/jazz"
+          },
+          {
+            "count": 14,
+            "name": "Progressive metal",
+            "url": "https://www.last.fm/tag/Progressive+metal"
+          },
+          {
+            "count": 6,
+            "name": "Progressive",
+            "url": "https://www.last.fm/tag/Progressive"
+          },
+          {
+            "count": 6,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 3,
+            "name": "Jazz Rock",
+            "url": "https://www.last.fm/tag/Jazz+Rock"
+          },
+          {
+            "count": 1,
+            "name": "Fusion",
+            "url": "https://www.last.fm/tag/Fusion"
+          },
+          {
+            "count": 1,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          },
+          {
+            "count": 1,
+            "name": "math rock",
+            "url": "https://www.last.fm/tag/math+rock"
+          }
+        ],
+        "@attr": {
+          "artist": "Thank You Scientist"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "The Parkinson",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "punk",
+            "url": "https://www.last.fm/tag/punk"
+          },
+          {
+            "count": 51,
+            "name": "punk rock",
+            "url": "https://www.last.fm/tag/punk+rock"
+          },
+          {
+            "count": 12,
+            "name": "portuguese",
+            "url": "https://www.last.fm/tag/portuguese"
+          },
+          {
+            "count": 5,
+            "name": "Garage Rock",
+            "url": "https://www.last.fm/tag/Garage+Rock"
+          },
+          {
+            "count": 3,
+            "name": "Portugal",
+            "url": "https://www.last.fm/tag/Portugal"
+          },
+          {
+            "count": 3,
+            "name": "Garage Punk",
+            "url": "https://www.last.fm/tag/Garage+Punk"
+          },
+          {
+            "count": 3,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 1,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 1,
+            "name": "garage",
+            "url": "https://www.last.fm/tag/garage"
+          },
+          {
+            "count": 1,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          }
+        ],
+        "@attr": {
+          "artist": "The Parkinsons"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "The Peach Band",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 25,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 16,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 16,
+            "name": "indie pop",
+            "url": "https://www.last.fm/tag/indie+pop"
+          }
+        ],
+        "@attr": {
+          "artist": "The Peach Band"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "The Richman Toy",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 44,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 29,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 17,
+            "name": "garage",
+            "url": "https://www.last.fm/tag/garage"
+          },
+          {
+            "count": 1,
+            "name": "Garage Rock",
+            "url": "https://www.last.fm/tag/Garage+Rock"
+          },
+          {
+            "count": 1,
+            "name": "Southern Rock",
+            "url": "https://www.last.fm/tag/Southern+Rock"
+          },
+          {
+            "count": 1,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "count": 1,
+            "name": "indy",
+            "url": "https://www.last.fm/tag/indy"
+          },
+          {
+            "count": 1,
+            "name": "indie rock",
+            "url": "https://www.last.fm/tag/indie+rock"
+          },
+          {
+            "count": 1,
+            "name": "alternative rock",
+            "url": "https://www.last.fm/tag/alternative+rock"
+          }
+        ],
+        "@attr": {
+          "artist": "The Richman Toy"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "The Zutons",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 94,
+            "name": "indie rock",
+            "url": "https://www.last.fm/tag/indie+rock"
+          },
+          {
+            "count": 53,
+            "name": "british",
+            "url": "https://www.last.fm/tag/british"
+          },
+          {
+            "count": 41,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 18,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "count": 5,
+            "name": "alternative rock",
+            "url": "https://www.last.fm/tag/alternative+rock"
+          },
+          {
+            "count": 4,
+            "name": "britpop",
+            "url": "https://www.last.fm/tag/britpop"
+          },
+          {
+            "count": 1,
+            "name": "liverpool",
+            "url": "https://www.last.fm/tag/liverpool"
+          },
+          {
+            "count": 1,
+            "name": "indie pop",
+            "url": "https://www.last.fm/tag/indie+pop"
+          },
+          {
+            "count": 1,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          }
+        ],
+        "@attr": {
+          "artist": "The Zutons"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Three Man Down",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 25,
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "count": 16,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 16,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 8,
+            "name": "Thai Indie",
+            "url": "https://www.last.fm/tag/Thai+Indie"
+          },
+          {
+            "count": 8,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 8,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          }
+        ],
+        "@attr": {
+          "artist": "Three Man Down"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Tilly Birds",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 37,
+            "name": "indie rock",
+            "url": "https://www.last.fm/tag/indie+rock"
+          },
+          {
+            "count": 17,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 2,
+            "name": "english",
+            "url": "https://www.last.fm/tag/english"
+          },
+          {
+            "count": 2,
+            "name": "pop rock",
+            "url": "https://www.last.fm/tag/pop+rock"
+          },
+          {
+            "count": 2,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "count": 1,
+            "name": "accoustic",
+            "url": "https://www.last.fm/tag/accoustic"
+          },
+          {
+            "count": 1,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 1,
+            "name": "Asian",
+            "url": "https://www.last.fm/tag/Asian"
+          }
+        ],
+        "@attr": {
+          "artist": "Tilly Birds"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Timethai",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 17,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 17,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 8,
+            "name": "solo artist",
+            "url": "https://www.last.fm/tag/solo+artist"
+          },
+          {
+            "count": 2,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 2,
+            "name": "male vocalists",
+            "url": "https://www.last.fm/tag/male+vocalists"
+          },
+          {
+            "count": 1,
+            "name": "male soloist",
+            "url": "https://www.last.fm/tag/male+soloist"
+          },
+          {
+            "count": 1,
+            "name": "kamikaze LOVE project",
+            "url": "https://www.last.fm/tag/kamikaze+LOVE+project"
+          },
+          {
+            "count": 1,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          }
+        ],
+        "@attr": {
+          "artist": "Timethai"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Two Popetorn",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          }
+        ],
+        "@attr": {
+          "artist": "Two Popetorn"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "WANWANWAN",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "wanwanwan"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Waii",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "kamikaze project",
+            "url": "https://www.last.fm/tag/kamikaze+project"
+          },
+          {
+            "count": 44,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 29,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 29,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 4,
+            "name": "cute",
+            "url": "https://www.last.fm/tag/cute"
+          },
+          {
+            "count": 4,
+            "name": "Asian",
+            "url": "https://www.last.fm/tag/Asian"
+          },
+          {
+            "count": 4,
+            "name": "asian music",
+            "url": "https://www.last.fm/tag/asian+music"
+          },
+          {
+            "count": 1,
+            "name": "Asian Pop",
+            "url": "https://www.last.fm/tag/Asian+Pop"
+          },
+          {
+            "count": 1,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 1,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          }
+        ],
+        "@attr": {
+          "artist": "Waii"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Whal & Dolph",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 25,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 16,
+            "name": "chill",
+            "url": "https://www.last.fm/tag/chill"
+          },
+          {
+            "count": 16,
+            "name": "indie pop",
+            "url": "https://www.last.fm/tag/indie+pop"
+          },
+          {
+            "count": 8,
+            "name": "Thai Indie",
+            "url": "https://www.last.fm/tag/Thai+Indie"
+          },
+          {
+            "count": 8,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 8,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          }
+        ],
+        "@attr": {
+          "artist": "Whal & Dolph"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Whatcharawalee",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "easy listening",
+            "url": "https://www.last.fm/tag/easy+listening"
+          },
+          {
+            "count": 100,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 66,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 66,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 33,
+            "name": "soul pop",
+            "url": "https://www.last.fm/tag/soul+pop"
+          }
+        ],
+        "@attr": {
+          "artist": "WhatChaRaWaLee"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Whitney Houston",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 86,
+            "name": "soul",
+            "url": "https://www.last.fm/tag/soul"
+          },
+          {
+            "count": 51,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 43,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 17,
+            "name": "80s",
+            "url": "https://www.last.fm/tag/80s"
+          },
+          {
+            "count": 5,
+            "name": "whitney houston",
+            "url": "https://www.last.fm/tag/whitney+houston"
+          },
+          {
+            "count": 4,
+            "name": "american",
+            "url": "https://www.last.fm/tag/american"
+          },
+          {
+            "count": 1,
+            "name": "90s",
+            "url": "https://www.last.fm/tag/90s"
+          },
+          {
+            "count": 1,
+            "name": "dance",
+            "url": "https://www.last.fm/tag/dance"
+          },
+          {
+            "count": 1,
+            "name": "diva",
+            "url": "https://www.last.fm/tag/diva"
+          }
+        ],
+        "@attr": {
+          "artist": "Whitney Houston"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Yokee Playboy",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 56,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 17,
+            "name": "yokee playboy",
+            "url": "https://www.last.fm/tag/yokee+playboy"
+          },
+          {
+            "count": 4,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 2,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 2,
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "count": 2,
+            "name": "All",
+            "url": "https://www.last.fm/tag/All"
+          },
+          {
+            "count": 1,
+            "name": "Thai Indie",
+            "url": "https://www.last.fm/tag/Thai+Indie"
+          },
+          {
+            "count": 1,
+            "name": "thai folk",
+            "url": "https://www.last.fm/tag/thai+folk"
+          },
+          {
+            "count": 1,
+            "name": "nana ost",
+            "url": "https://www.last.fm/tag/nana+ost"
+          }
+        ],
+        "@attr": {
+          "artist": "Yokee Playboy"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Zeal",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "metalcore",
+            "url": "https://www.last.fm/tag/metalcore"
+          },
+          {
+            "count": 45,
+            "name": "melodic hardcore",
+            "url": "https://www.last.fm/tag/melodic+hardcore"
+          },
+          {
+            "count": 15,
+            "name": "Drum and bass",
+            "url": "https://www.last.fm/tag/Drum+and+bass"
+          },
+          {
+            "count": 15,
+            "name": "polish",
+            "url": "https://www.last.fm/tag/polish"
+          },
+          {
+            "count": 7,
+            "name": "bangladesh",
+            "url": "https://www.last.fm/tag/bangladesh"
+          },
+          {
+            "count": 7,
+            "name": "Bangali",
+            "url": "https://www.last.fm/tag/Bangali"
+          },
+          {
+            "count": 7,
+            "name": "bangladeshi",
+            "url": "https://www.last.fm/tag/bangladeshi"
+          },
+          {
+            "count": 1,
+            "name": "neurofunk",
+            "url": "https://www.last.fm/tag/neurofunk"
+          },
+          {
+            "count": 1,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 1,
+            "name": "hardcore",
+            "url": "https://www.last.fm/tag/hardcore"
+          }
+        ],
+        "@attr": {
+          "artist": "Zeal"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Zom Marie",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "french",
+            "url": "https://www.last.fm/tag/french"
+          },
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 66,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          }
+        ],
+        "@attr": {
+          "artist": "Zom Marie"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "atom chanakan",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 66,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 33,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          }
+        ],
+        "@attr": {
+          "artist": "Atom Chanakan"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "bamm",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "G-funk",
+            "url": "https://www.last.fm/tag/G-funk"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 66,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 33,
+            "name": "Houston rap",
+            "url": "https://www.last.fm/tag/Houston+rap"
+          }
+        ],
+        "@attr": {
+          "artist": "baMM"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "cheriie",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "cheriie"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "drg.",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "drg."
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "fellow fellow",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 25,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 16,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 16,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 8,
+            "name": "Thai Indie",
+            "url": "https://www.last.fm/tag/Thai+Indie"
+          }
+        ],
+        "@attr": {
+          "artist": "Fellow Fellow"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "gorn",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "Fax 49-69450464",
+            "url": "https://www.last.fm/tag/Fax+49-69450464"
+          },
+          {
+            "count": 100,
+            "name": "trance",
+            "url": "https://www.last.fm/tag/trance"
+          },
+          {
+            "count": 29,
+            "name": "electronic",
+            "url": "https://www.last.fm/tag/electronic"
+          },
+          {
+            "count": 7,
+            "name": "ambient",
+            "url": "https://www.last.fm/tag/ambient"
+          },
+          {
+            "count": 4,
+            "name": "german",
+            "url": "https://www.last.fm/tag/german"
+          },
+          {
+            "count": 4,
+            "name": "techno",
+            "url": "https://www.last.fm/tag/techno"
+          },
+          {
+            "count": 4,
+            "name": "oldskool",
+            "url": "https://www.last.fm/tag/oldskool"
+          },
+          {
+            "count": 1,
+            "name": "Fax 49-69 450464",
+            "url": "https://www.last.fm/tag/Fax+49-69+450464"
+          },
+          {
+            "count": 1,
+            "name": "under 500 listeners",
+            "url": "https://www.last.fm/tag/under+500+listeners"
+          }
+        ],
+        "@attr": {
+          "artist": "Gorn"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "jaei",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "jaei"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "manutsawee",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "manutsawee"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "paiiinntt",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          }
+        ],
+        "@attr": {
+          "artist": "paiiinntt"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "yung kai",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 25,
+            "name": "Canadian",
+            "url": "https://www.last.fm/tag/Canadian"
+          },
+          {
+            "count": 17,
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "count": 17,
+            "name": "indie rock",
+            "url": "https://www.last.fm/tag/indie+rock"
+          },
+          {
+            "count": 8,
+            "name": "malaysian",
+            "url": "https://www.last.fm/tag/malaysian"
+          }
+        ],
+        "@attr": {
+          "artist": "yung kai"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "กล้วย อาร์ สยาม",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "กล้วย อาร์ สยาม"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "ซาร่า นุศรา ผุงประเสริฐ",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "ซาร่า นุศรา ผุงประเสริฐ"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "พิม Zaza",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "พิม Zaza"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "มด กัลยา",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "มด กัลยา"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "ยุ้ย ญาติเยอะ",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "ยุ้ย ญาติเยอะ"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "สุเมธ & เดอะปั๋ง",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "สุเมธ & เดอะปั๋ง"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "หญิง ธิติกานต์ อาร์ สยาม",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "tpop",
+            "url": "https://www.last.fm/tag/tpop"
+          },
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          }
+        ],
+        "@attr": {
+          "artist": "หญิง ธิติกานต์ อาร์ สยาม"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "อ.ไข่ มาลีฮวนน่า",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "อ.ไข่ มาลีฮวนน่า"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "อภิรมย์",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 25,
+            "name": "folk",
+            "url": "https://www.last.fm/tag/folk"
+          },
+          {
+            "count": 16,
+            "name": "indie",
+            "url": "https://www.last.fm/tag/indie"
+          },
+          {
+            "count": 16,
+            "name": "acoustic",
+            "url": "https://www.last.fm/tag/acoustic"
+          }
+        ],
+        "@attr": {
+          "artist": "อภิรมย์"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "เนสกาแฟ ศรีนคร",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "เนสกาแฟ ศรีนคร"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "เสือใหญ่",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [],
+        "@attr": {
+          "artist": "เสือใหญ่"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "แมว จิรศักดิ์",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          }
+        ],
+        "@attr": {
+          "artist": "แมว จิรศักดิ์"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "แอน อรดี",
+    "fetched_at": "2026-09-28T06-40-14",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "luk thung",
+            "url": "https://www.last.fm/tag/luk+thung"
+          },
+          {
+            "count": 100,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 66,
+            "name": "Molam sing",
+            "url": "https://www.last.fm/tag/Molam+sing"
+          }
+        ],
+        "@attr": {
+          "artist": "แอน อรดี"
+        }
+      }
+    }
+  }
+]

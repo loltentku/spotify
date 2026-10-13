@@ -1,0 +1,353 @@
+[
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+    },
+    "href": "https://api.spotify.com/v1/artists/2SWWw5uB9cO5m7zJQZqwmr",
+    "id": "2SWWw5uB9cO5m7zJQZqwmr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc85c2ce8de5aa3b0a9fa014a",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174c85c2ce8de5aa3b0a9fa014a",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178c85c2ce8de5aa3b0a9fa014a",
+        "width": 160
+      }
+    ],
+    "name": "BOWKYLION",
+    "type": "artist",
+    "uri": "spotify:artist:2SWWw5uB9cO5m7zJQZqwmr"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+    },
+    "href": "https://api.spotify.com/v1/artists/6HlUN1Md7UT62mNJHOYRsK",
+    "id": "6HlUN1Md7UT62mNJHOYRsK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebf7d21df1f25dd70de1b76925",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174f7d21df1f25dd70de1b76925",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178f7d21df1f25dd70de1b76925",
+        "width": 160
+      }
+    ],
+    "name": "PiXXiE",
+    "type": "artist",
+    "uri": "spotify:artist:6HlUN1Md7UT62mNJHOYRsK"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1qz5HLBHOge1yHlMVAZ9hO"
+    },
+    "href": "https://api.spotify.com/v1/artists/1qz5HLBHOge1yHlMVAZ9hO",
+    "id": "1qz5HLBHOge1yHlMVAZ9hO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb35a56fe47191224ebde81244",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517435a56fe47191224ebde81244",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17835a56fe47191224ebde81244",
+        "width": 160
+      }
+    ],
+    "name": "ETC.",
+    "type": "artist",
+    "uri": "spotify:artist:1qz5HLBHOge1yHlMVAZ9hO"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+    },
+    "href": "https://api.spotify.com/v1/artists/0UAiHanBWs5vRM1tSPf2RJ",
+    "id": "0UAiHanBWs5vRM1tSPf2RJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb704270d2e87d36d712d461e4",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174704270d2e87d36d712d461e4",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178704270d2e87d36d712d461e4",
+        "width": 160
+      }
+    ],
+    "name": "No One Else",
+    "type": "artist",
+    "uri": "spotify:artist:0UAiHanBWs5vRM1tSPf2RJ"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+    },
+    "href": "https://api.spotify.com/v1/artists/5pxvW2nJ0a77b9oX24Unwi",
+    "id": "5pxvW2nJ0a77b9oX24Unwi",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc74f3c654885a73d98e8b693",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174c74f3c654885a73d98e8b693",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178c74f3c654885a73d98e8b693",
+        "width": 160
+      }
+    ],
+    "name": "Tattoo Colour",
+    "type": "artist",
+    "uri": "spotify:artist:5pxvW2nJ0a77b9oX24Unwi"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2iLCiSxdwUMDEfqyfkuLEw"
+    },
+    "href": "https://api.spotify.com/v1/artists/2iLCiSxdwUMDEfqyfkuLEw",
+    "id": "2iLCiSxdwUMDEfqyfkuLEw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb649a00659a3ae5dbc00a3451",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174649a00659a3ae5dbc00a3451",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178649a00659a3ae5dbc00a3451",
+        "width": 160
+      }
+    ],
+    "name": "atom chanakan",
+    "type": "artist",
+    "uri": "spotify:artist:2iLCiSxdwUMDEfqyfkuLEw"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+    },
+    "href": "https://api.spotify.com/v1/artists/1ssEwBiz4ZKrbgR6o8vOeg",
+    "id": "1ssEwBiz4ZKrbgR6o8vOeg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb4662f1c87cd599f65a04c315",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051744662f1c87cd599f65a04c315",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1784662f1c87cd599f65a04c315",
+        "width": 160
+      }
+    ],
+    "name": "Polycat",
+    "type": "artist",
+    "uri": "spotify:artist:1ssEwBiz4ZKrbgR6o8vOeg"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt"
+    },
+    "href": "https://api.spotify.com/v1/artists/76VTagPgPgPlFE7hfjT0Zt",
+    "id": "76VTagPgPgPlFE7hfjT0Zt",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc3a790b0fe3cfddba12ba541",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174c3a790b0fe3cfddba12ba541",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178c3a790b0fe3cfddba12ba541",
+        "width": 160
+      }
+    ],
+    "name": "Bodyslam",
+    "type": "artist",
+    "uri": "spotify:artist:76VTagPgPgPlFE7hfjT0Zt"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+    },
+    "href": "https://api.spotify.com/v1/artists/0OjRa6r1EIPF5RZPy1SGz9",
+    "id": "0OjRa6r1EIPF5RZPy1SGz9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb9ce1effcd929f5776754ffd8",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051749ce1effcd929f5776754ffd8",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1789ce1effcd929f5776754ffd8",
+        "width": 160
+      }
+    ],
+    "name": "Musketeers",
+    "type": "artist",
+    "uri": "spotify:artist:0OjRa6r1EIPF5RZPy1SGz9"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk"
+    },
+    "href": "https://api.spotify.com/v1/artists/7omCr5aMOZAR4rL580d2kk",
+    "id": "7omCr5aMOZAR4rL580d2kk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebdecda69c09ee9614db1a91cb",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174decda69c09ee9614db1a91cb",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178decda69c09ee9614db1a91cb",
+        "width": 160
+      }
+    ],
+    "name": "Crescendo",
+    "type": "artist",
+    "uri": "spotify:artist:7omCr5aMOZAR4rL580d2kk"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H"
+    },
+    "href": "https://api.spotify.com/v1/artists/2DWxd6CkiJVMnTqSbtd56H",
+    "id": "2DWxd6CkiJVMnTqSbtd56H",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebff612652d742be3c2fc3f690",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174ff612652d742be3c2fc3f690",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178ff612652d742be3c2fc3f690",
+        "width": 160
+      }
+    ],
+    "name": "Season Five",
+    "type": "artist",
+    "uri": "spotify:artist:2DWxd6CkiJVMnTqSbtd56H"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+    },
+    "href": "https://api.spotify.com/v1/artists/2DaMrZndfGgM3yd9ivadRC",
+    "id": "2DaMrZndfGgM3yd9ivadRC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc84abd1a821f57cafa5eed8d",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174c84abd1a821f57cafa5eed8d",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178c84abd1a821f57cafa5eed8d",
+        "width": 160
+      }
+    ],
+    "name": "Lipta",
+    "type": "artist",
+    "uri": "spotify:artist:2DaMrZndfGgM3yd9ivadRC"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+    },
+    "href": "https://api.spotify.com/v1/artists/6chmC6o0wvACYVGTITw3Pz",
+    "id": "6chmC6o0wvACYVGTITw3Pz",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebd88c290d774ae0a19362d54c",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174d88c290d774ae0a19362d54c",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178d88c290d774ae0a19362d54c",
+        "width": 160
+      }
+    ],
+    "name": "NONT TANONT",
+    "type": "artist",
+    "uri": "spotify:artist:6chmC6o0wvACYVGTITw3Pz"
+  }
+]

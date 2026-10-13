@@ -1,0 +1,111 @@
+[
+  {
+    "artist_name": "LAZYLOXY",
+    "fetched_at": "2026-09-30T15-00-06",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 25,
+            "name": "thai hip hop",
+            "url": "https://www.last.fm/tag/thai+hip+hop"
+          },
+          {
+            "count": 17,
+            "name": "Thai trap",
+            "url": "https://www.last.fm/tag/Thai+trap"
+          }
+        ],
+        "@attr": {
+          "artist": "Lazyloxy"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Pause",
+    "fetched_at": "2026-09-30T15-00-06",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "psychedelic trance",
+            "url": "https://www.last.fm/tag/psychedelic+trance"
+          },
+          {
+            "count": 31,
+            "name": "psytrance",
+            "url": "https://www.last.fm/tag/psytrance"
+          },
+          {
+            "count": 13,
+            "name": "psychedelic",
+            "url": "https://www.last.fm/tag/psychedelic"
+          },
+          {
+            "count": 7,
+            "name": "punk",
+            "url": "https://www.last.fm/tag/punk"
+          },
+          {
+            "count": 4,
+            "name": "crust punk",
+            "url": "https://www.last.fm/tag/crust+punk"
+          },
+          {
+            "count": 4,
+            "name": "hardcore punk",
+            "url": "https://www.last.fm/tag/hardcore+punk"
+          },
+          {
+            "count": 2,
+            "name": "electronic",
+            "url": "https://www.last.fm/tag/electronic"
+          },
+          {
+            "count": 1,
+            "name": "Crust",
+            "url": "https://www.last.fm/tag/Crust"
+          },
+          {
+            "count": 1,
+            "name": "finnish",
+            "url": "https://www.last.fm/tag/finnish"
+          },
+          {
+            "count": 1,
+            "name": "goa",
+            "url": "https://www.last.fm/tag/goa"
+          }
+        ],
+        "@attr": {
+          "artist": "Pause"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "แคท อารียา",
+    "fetched_at": "2026-09-30T15-00-06",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          }
+        ],
+        "@attr": {
+          "artist": "แคท อารียา"
+        }
+      }
+    }
+  }
+]

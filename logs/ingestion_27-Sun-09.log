@@ -1,0 +1,25 @@
+2026-09-27 18:13:13,925 [INFO] เริ่ม ingestion รอบ 2026-09-27T11-13-13
+2026-09-27 18:13:14,380 [INFO] recently_played: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\recently_played\ingestion_date=2026-09-27\data_20260927T111313.json
+2026-09-27 18:13:14,569 [INFO] top_tracks_short_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_tracks_short_term\ingestion_date=2026-09-27\data_20260927T111313.json
+2026-09-27 18:13:14,849 [INFO] top_artists_short_term: 14 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_artists_short_term\ingestion_date=2026-09-27\data_20260927T111313.json
+2026-09-27 18:13:15,045 [INFO] top_tracks_medium_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_tracks_medium_term\ingestion_date=2026-09-27\data_20260927T111313.json
+2026-09-27 18:13:15,261 [INFO] top_artists_medium_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_artists_medium_term\ingestion_date=2026-09-27\data_20260927T111313.json
+2026-09-27 18:13:15,467 [INFO] top_tracks_long_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_tracks_long_term\ingestion_date=2026-09-27\data_20260927T111313.json
+2026-09-27 18:13:15,660 [INFO] top_artists_long_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_artists_long_term\ingestion_date=2026-09-27\data_20260927T111313.json
+2026-09-27 18:13:15,901 [INFO] playlists: 40 รายการ -> C:\Users\User\Downloads\spotify\data\landing\playlists\ingestion_date=2026-09-27\data_20260927T111313.json
+2026-09-27 18:13:15,902 [INFO] ingestion เสร็จสมบูรณ์
+2026-09-27 18:15:52,883 [INFO] เริ่ม ingestion รอบ 2026-09-27T11-15-52
+2026-09-27 18:15:53,286 [INFO] recently_played: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\recently_played\ingestion_date=2026-09-27\data_20260927T111552.json
+2026-09-27 18:15:53,499 [INFO] top_tracks_short_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_tracks_short_term\ingestion_date=2026-09-27\data_20260927T111552.json
+2026-09-27 18:15:53,663 [INFO] top_artists_short_term: 14 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_artists_short_term\ingestion_date=2026-09-27\data_20260927T111552.json
+2026-09-27 18:15:53,866 [INFO] top_tracks_medium_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_tracks_medium_term\ingestion_date=2026-09-27\data_20260927T111552.json
+^C2026-09-27 18:16:00,640 [INFO] เริ่ม ingestion รอบ 2026-09-27T11-16-00
+2026-09-27 18:16:01,104 [INFO] recently_played: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\recently_played\ingestion_date=2026-09-27\data_20260927T111600.json
+2026-09-27 18:16:01,405 [INFO] top_tracks_short_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_tracks_short_term\ingestion_date=2026-09-27\data_20260927T111600.json
+2026-09-27 18:16:01,564 [INFO] top_artists_short_term: 14 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_artists_short_term\ingestion_date=2026-09-27\data_20260927T111600.json
+2026-09-27 18:16:01,862 [INFO] top_tracks_medium_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_tracks_medium_term\ingestion_date=2026-09-27\data_20260927T111600.json
+2026-09-27 18:16:02,058 [INFO] top_artists_medium_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_artists_medium_term\ingestion_date=2026-09-27\data_20260927T111600.json
+2026-09-27 18:16:02,275 [INFO] top_tracks_long_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_tracks_long_term\ingestion_date=2026-09-27\data_20260927T111600.json
+2026-09-27 18:16:02,568 [INFO] top_artists_long_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_artists_long_term\ingestion_date=2026-09-27\data_20260927T111600.json
+2026-09-27 18:16:02,852 [INFO] playlists: 40 รายการ -> C:\Users\User\Downloads\spotify\data\landing\playlists\ingestion_date=2026-09-27\data_20260927T111600.json
+2026-09-27 18:16:02,852 [INFO] ingestion เสร็จสมบูรณ์

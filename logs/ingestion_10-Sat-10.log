@@ -1,0 +1,7 @@
+2026-10-10 22:00:03,501 [INFO] เริ่ม ingestion รอบ 2026-10-10T15-00-03
+2026-10-10 22:00:04,359 [INFO] recently_played: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\recently_played\ingestion_date=2026-10-10\data_20261010T150003.json
+2026-10-10 22:00:04,611 [INFO] top_tracks_short_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_tracks_short_term\ingestion_date=2026-10-10\data_20261010T150003.json
+2026-10-10 22:00:04,773 [INFO] top_artists_short_term: 16 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_artists_short_term\ingestion_date=2026-10-10\data_20261010T150003.json
+2026-10-10 22:00:05,091 [INFO] top_tracks_medium_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_tracks_medium_term\ingestion_date=2026-10-10\data_20261010T150003.json
+2026-10-10 22:00:05,406 [INFO] top_artists_medium_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_artists_medium_term\ingestion_date=2026-10-10\data_20261010T150003.json
+^C

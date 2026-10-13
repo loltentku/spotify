@@ -1,0 +1,12 @@
+2026-10-06 22:00:03,502 [INFO] เริ่ม ingestion รอบ 2026-10-06T15-00-03
+2026-10-06 22:00:04,806 [INFO] recently_played: 46 รายการ -> C:\Users\User\Downloads\spotify\data\landing\recently_played\ingestion_date=2026-10-06\data_20261006T150003.json
+2026-10-06 22:00:05,012 [INFO] top_tracks_short_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_tracks_short_term\ingestion_date=2026-10-06\data_20261006T150003.json
+2026-10-06 22:00:05,192 [INFO] top_artists_short_term: 14 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_artists_short_term\ingestion_date=2026-10-06\data_20261006T150003.json
+2026-10-06 22:00:05,396 [INFO] top_tracks_medium_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_tracks_medium_term\ingestion_date=2026-10-06\data_20261006T150003.json
+2026-10-06 22:00:05,976 [INFO] top_artists_medium_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_artists_medium_term\ingestion_date=2026-10-06\data_20261006T150003.json
+2026-10-06 22:00:06,179 [INFO] top_tracks_long_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_tracks_long_term\ingestion_date=2026-10-06\data_20261006T150003.json
+2026-10-06 22:00:06,390 [INFO] top_artists_long_term: 50 รายการ -> C:\Users\User\Downloads\spotify\data\landing\top_artists_long_term\ingestion_date=2026-10-06\data_20261006T150003.json
+2026-10-06 22:00:06,644 [INFO] playlists: 40 รายการ -> C:\Users\User\Downloads\spotify\data\landing\playlists\ingestion_date=2026-10-06\data_20261006T150003.json
+2026-10-06 22:00:06,644 [INFO] ingestion เสร็จสมบูรณ์
+2026-10-06 22:00:07,894 [INFO] ศิลปินทั้งหมด 171 คน, ต้องดึงใหม่ 6 คน
+2026-10-06 22:00:11,366 [INFO] artist_tags: 6 คน -> C:\Users\User\Downloads\spotify\data\landing\artist_tags\ingestion_date=2026-10-06\data_20261006T150007.json

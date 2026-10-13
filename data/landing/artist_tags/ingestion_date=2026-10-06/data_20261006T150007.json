@@ -1,0 +1,285 @@
+[
+  {
+    "artist_name": "La Ong Fong",
+    "fetched_at": "2026-10-06T15-00-07",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "indie pop",
+            "url": "https://www.last.fm/tag/indie+pop"
+          },
+          {
+            "count": 100,
+            "name": "Asian",
+            "url": "https://www.last.fm/tag/Asian"
+          },
+          {
+            "count": 66,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 66,
+            "name": "asian music",
+            "url": "https://www.last.fm/tag/asian+music"
+          },
+          {
+            "count": 33,
+            "name": "Asian Pop",
+            "url": "https://www.last.fm/tag/Asian+Pop"
+          },
+          {
+            "count": 33,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          },
+          {
+            "count": 33,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          }
+        ],
+        "@attr": {
+          "artist": "La Ong Fong"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Num KALA",
+    "fetched_at": "2026-10-06T15-00-07",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 100,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          }
+        ],
+        "@attr": {
+          "artist": "Num Kala"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Paradox",
+    "fetched_at": "2026-10-06T15-00-07",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "thrash metal",
+            "url": "https://www.last.fm/tag/thrash+metal"
+          },
+          {
+            "count": 61,
+            "name": "speed metal",
+            "url": "https://www.last.fm/tag/speed+metal"
+          },
+          {
+            "count": 21,
+            "name": "Drum and bass",
+            "url": "https://www.last.fm/tag/Drum+and+bass"
+          },
+          {
+            "count": 16,
+            "name": "drumfunk",
+            "url": "https://www.last.fm/tag/drumfunk"
+          },
+          {
+            "count": 6,
+            "name": "german",
+            "url": "https://www.last.fm/tag/german"
+          },
+          {
+            "count": 6,
+            "name": "Power metal",
+            "url": "https://www.last.fm/tag/Power+metal"
+          },
+          {
+            "count": 5,
+            "name": "metal",
+            "url": "https://www.last.fm/tag/metal"
+          },
+          {
+            "count": 1,
+            "name": "germany",
+            "url": "https://www.last.fm/tag/germany"
+          },
+          {
+            "count": 1,
+            "name": "german thrash metal",
+            "url": "https://www.last.fm/tag/german+thrash+metal"
+          },
+          {
+            "count": 1,
+            "name": "dnb",
+            "url": "https://www.last.fm/tag/dnb"
+          }
+        ],
+        "@attr": {
+          "artist": "Paradox"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "Punch",
+    "fetched_at": "2026-10-06T15-00-07",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "hardcore",
+            "url": "https://www.last.fm/tag/hardcore"
+          },
+          {
+            "count": 98,
+            "name": "powerviolence",
+            "url": "https://www.last.fm/tag/powerviolence"
+          },
+          {
+            "count": 42,
+            "name": "thrashcore",
+            "url": "https://www.last.fm/tag/thrashcore"
+          },
+          {
+            "count": 21,
+            "name": "female vocalists",
+            "url": "https://www.last.fm/tag/female+vocalists"
+          },
+          {
+            "count": 8,
+            "name": "power violence",
+            "url": "https://www.last.fm/tag/power+violence"
+          },
+          {
+            "count": 8,
+            "name": "hardcore punk",
+            "url": "https://www.last.fm/tag/hardcore+punk"
+          },
+          {
+            "count": 5,
+            "name": "fastcore",
+            "url": "https://www.last.fm/tag/fastcore"
+          },
+          {
+            "count": 1,
+            "name": "female fronted hardcore",
+            "url": "https://www.last.fm/tag/female+fronted+hardcore"
+          },
+          {
+            "count": 1,
+            "name": "san francisco",
+            "url": "https://www.last.fm/tag/san+francisco"
+          },
+          {
+            "count": 1,
+            "name": "punk",
+            "url": "https://www.last.fm/tag/punk"
+          }
+        ],
+        "@attr": {
+          "artist": "Punch"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "คาราบาว",
+    "fetched_at": "2026-10-06T15-00-07",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "carabao",
+            "url": "https://www.last.fm/tag/carabao"
+          },
+          {
+            "count": 100,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          }
+        ],
+        "@attr": {
+          "artist": "คาราบาว"
+        }
+      }
+    }
+  },
+  {
+    "artist_name": "ปาน ธนพร",
+    "fetched_at": "2026-10-06T15-00-07",
+    "response": {
+      "toptags": {
+        "tag": [
+          {
+            "count": 100,
+            "name": "yes music",
+            "url": "https://www.last.fm/tag/yes+music"
+          },
+          {
+            "count": 25,
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "count": 16,
+            "name": "thai",
+            "url": "https://www.last.fm/tag/thai"
+          },
+          {
+            "count": 16,
+            "name": "ost",
+            "url": "https://www.last.fm/tag/ost"
+          },
+          {
+            "count": 8,
+            "name": "thai rock",
+            "url": "https://www.last.fm/tag/thai+rock"
+          },
+          {
+            "count": 8,
+            "name": "thai pop",
+            "url": "https://www.last.fm/tag/thai+pop"
+          },
+          {
+            "count": 8,
+            "name": "thailand",
+            "url": "https://www.last.fm/tag/thailand"
+          },
+          {
+            "count": 2,
+            "name": "Thanaporn",
+            "url": "https://www.last.fm/tag/Thanaporn"
+          },
+          {
+            "count": 2,
+            "name": "t-pop",
+            "url": "https://www.last.fm/tag/t-pop"
+          },
+          {
+            "count": 2,
+            "name": "rs",
+            "url": "https://www.last.fm/tag/rs"
+          }
+        ],
+        "@attr": {
+          "artist": "ปาน ธนพร"
+        }
+      }
+    }
+  }
+]
