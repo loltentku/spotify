@@ -58,7 +58,7 @@ Schema evolution is on in case Spotify adds fields, and every row carries `_inge
 - Artists without tags are grouped as "Unknown (no tag)" with weight 1 instead of 0, otherwise they would always show 0%
 - Null `context_type` becomes "Unknown"
 - Converted play times from UTC to Asia/Bangkok before counting by hour, and guarded against division by zero
-- 
+
 ## Dashboard
 
 - KPIs: total playlists, average tracks per playlist, share of collaborative playlists, total plays
