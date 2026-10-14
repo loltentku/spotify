@@ -6,6 +6,13 @@ processes everything on Databricks using a Bronze → Silver → Gold layout, an
 
 ![Dashboard](dash.png)
 
+## What I Learned
+ 
+- How to build a data pipeline end to end: collect, clean, store, and visualize
+- How to organize data in layers (Bronze → Silver → Gold) so each step has one clear job
+- How to deal with messy real-world data: missing values, duplicates, and inconsistent labels
+- How to work around API limits and missing data
+
 ## How it fits together
 
 ```
