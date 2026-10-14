@@ -73,8 +73,14 @@ Power BI in DirectQuery mode rejects some DAX functions (such as `FORMAT`), so t
 - A heatmap of how my taste shifts across the last 4 weeks, 6 months and 12 months
 - What time of day I listen (Bangkok time)
 
-## Tech stack
-
-Python (Spotipy, pandas) · Databricks (Delta Lake, Auto Loader, PySpark, Unity Catalog Volumes) ·
-Last.fm API · Power BI · Windows Task Scheduler
+## Tech Stack
+ 
+| Area | Tools |
+|------|-------|
+| Language | Python (Spotipy, pandas), PySpark, SQL |
+| Data platform | Databricks (Delta Lake, Auto Loader, Unity Catalog Volumes) |
+| Data sources | Spotify API, Last.fm API |
+| Visualization | Power BI |
+| Scheduling | Windows Task Scheduler |
+ 
 
