@@ -51,6 +51,8 @@ Power BI in DirectQuery mode rejects some DAX functions (such as `FORMAT`), so t
   2. Removed tags that aren't genres (countries, artist names, decades, etc.)
   3. Merged tags with the same meaning (for example, `rnb` → `r&b`)
   4. Picked the top 5 tags per artist **after** cleaning, so junk tags can't take the spots
+
+  
 **Gold layer**
 - Used only the latest snapshot per time range and playlist, so daily runs don't double count
 - Artists with no tags are labeled "Unknown (no tag)" instead of being dropped
