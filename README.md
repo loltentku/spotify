@@ -9,7 +9,7 @@ processes everything on Databricks using a Bronze → Silver → Gold layout, an
 ## What I Learned
  
 - How to build a data pipeline end to end: collect, clean, store, and visualize
-- How to organize data in layers (Bronze → Silver → Gold) so each step has one clear job
+- How to organize data in layers (Bronze → Silver → Gold) 
 - How to deal with messy real-world data: missing values, duplicates, and inconsistent labels
 - How to work around API limits and missing data
 
@@ -32,7 +32,7 @@ Last.fm API ──┘   (runs daily)                             │
 | **Gold** | Builds 4 tables ready for analysis: genre mix, taste over time, listening hours, and library overview. |
 | **Dashboard** | Power BI reads the Gold tables directly from Databricks. |
  
-## What got in the way
+## Problems that i have faced
 
 **Spotify no longer returns artist genres,** and the audio-features endpoint returns 403 for newer apps.
 I looked up each artist on Last.fm to get genre tags instead. That brought in some junk tags
@@ -41,10 +41,6 @@ otherwise they use up the slots. Tags that mean the same thing (`thai`, `thailan
 
 **Spotify only returns the last 50 plays per request.** A day without a run means that day's history is gone for good,
 so the landing zone is append-only and ingestion runs daily.
-
-**Smaller problems:** the Kaggle CSV has rows where columns are shifted (track names with quotes), so I used `try_cast`
-and filtered out the bad rows. Play times are converted from UTC to Bangkok time before counting by hour.
-Power BI in DirectQuery mode rejects some DAX functions (such as `FORMAT`), so the hour labels are built with plain `IF` and `INT` instead.
 
 
 ## Data Cleaning Details
